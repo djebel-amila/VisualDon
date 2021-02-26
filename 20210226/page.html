@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
     <head>
         <style>            
             body {background: #000;}
@@ -12,7 +13,7 @@
                 <circle cx="500" cy="500" r="500" fill="whitesmoke" stroke="none"/>
                 <!-- text cadran -->
                 <g id="brand" text-anchor="middle" font-size="25" font-family="helvetica neue">
-                    <text x="500" y="725" >edam ssiws</text>
+                    <text id="textid" x="500" y="725"></text>
                 </g>
                 <!-- marqueurs heures -->
                 <g id="hours" stroke-linecap="" stroke-dasharray="0 390 90 10" stroke="black" stroke-width="20">
@@ -101,58 +102,57 @@
                 <!-- aiguilles des secondes -->
                 <path id="sec" d="M 500 500 L 520 450 L 480 400 L 520 350 L 480 300 L 520 250 L 480 200 L 520 150 L 480 100 L 520 50" fill="none" stroke="red" stroke-width="30"></path>
              </g>
-        </svg>
-        
-         <button id="reversetime" onclick="reverse()">reverse</button> 
-        
+        </svg>        
+        <button>GMT+1</button>
+        <button>GMT-5</button>    
+        <button id="time">Reverse Time</button>
     </body>
+    <script type="application/javascript">
+        var CENTER_X = 500;
+        var CENTER_Y = 500;
+        var sec = document.getElementById("sec");
+        var min = document.getElementById("min");
+        var hour = document.getElementById("hour");
+
+
+        var directionOfTime = 1;
+        var reverse = false;
+        var OFFSET = 5;
+        var swissTime = document.getElementsByTagName('button')[0];
+        var nycTime = document.getElementsByTagName('button')[1];
+        var reverseTime = document.getElementsByTagName('button')[2];
+
+        function seconds(angleSeconds, angleMinutes, angleHours){
+            sec.setAttribute("transform",`rotate(${angleSeconds}, ${CENTER_X}, ${CENTER_Y})`)            
+            min.setAttribute("transform",`rotate(${angleMinutes}, ${CENTER_X}, ${CENTER_Y})`)            
+            hour.setAttribute("transform",`rotate(${angleHours}, ${CENTER_X}, ${CENTER_Y})`)            
+        }
+
+        const step = () => {
+            var date = new Date();
+
+            swissTime.onclick = function() {OFFSET = 5;}
+            nycTime.onclick = function() {OFFSET = -25;}
+            reverseTime.onclick = function() {reverse =! reverse;}
+
+            if(reverse==false){
+                directionOfTime = 1
+                 document.getElementById('textid').textContent = "swiss made"
+            }
+            else{
+                directionOfTime = -1
+                document.getElementById('textid').textContent = "edam ssiws"
+            }
+
+            getAngleSeconds = 360 * date.getSeconds() / 60;
+            getAngleMinutes = 360 * date.getMinutes() / 60;
+            getAngleHours = 360 * (OFFSET + date.getHours()) / 60;
+
+            seconds(directionOfTime * getAngleSeconds,directionOfTime * getAngleMinutes,directionOfTime * getAngleHours)
+            requestAnimationFrame(step)        
+        }    
+
+        step()
+
+    </script>
 </html>
-
-<script type="application/javascript">
-    var CENTER_X = 500;
-    var CENTER_Y = 500;
-    var sec = document.getElementById("sec");
-    var min = document.getElementById("min");
-    var hour = document.getElementById("hour");
-        
-    function seconds(angleSeconds, angleMinutes, angleHours){
-        sec.setAttribute("transform",`rotate(${angleSeconds}, ${CENTER_X}, ${CENTER_Y})`)            
-        min.setAttribute("transform",`rotate(${angleMinutes}, ${CENTER_X}, ${CENTER_Y})`)            
-        hour.setAttribute("transform",`rotate(${angleHours}, ${CENTER_X}, ${CENTER_Y})`)            
-    }
-    
-    const step = () => {
-        var date = new Date();
-        getAngleSeconds = 360 * date.getSeconds() / 60;
-        getAngleMinutes = 360 * date.getMinutes() / 60;
-        getAngleHours = 360 * date.getHours() / 60;
-        
-        
-        seconds(getAngleSeconds * reverse, getAngleMinutes * reverse, getAngleHours * reverse)
-        requestAnimationFrame(step)
-    }    
-    
-    step()
-    
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
