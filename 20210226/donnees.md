@@ -3,9 +3,9 @@ repo for the “VisualDon” class with Anders Bengtson
 
 
 
-# VisualDon exercice 2
+## VisualDon exercice 2
 
-## Base de données
+### Table des matières
 
 - [Database](#database)
 - [Description](#description)
@@ -21,12 +21,12 @@ repo for the “VisualDon” class with Anders Bengtson
     Idées de visualisation
 
 
-## Database
+#### Database
 
 * [Database Biosentiers](https://biosentiers.heig-vd.ch/api/trails/8c8c2474-4375-4121-95d3-763f381717df/data-package)
 * Lien vers la base de données
 
-## Description
+##### Description
 
 The log objects are send to the backend and each represent an event in the app.
 Their structure is as follow:
@@ -41,11 +41,11 @@ Their structure is as follow:
 ```
 
 
-### D'où viennent elles?
+###### D'où viennent elles?
 
 D'où viennent elles ?
 
-#### `location`
+###### `location`
 
 > Fired each time the user's position is located by their device, and that the new position is at least 10 meters farer from the previous located position.
 
