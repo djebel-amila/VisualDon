@@ -23,7 +23,7 @@ Il s’agit du log de l’application «BioSentiers» lors de plusieurs sorties 
 Les données ont été enregistrées lors de plusieurs sorties en 2018, et sont rendues disponibles par l’API de l’application BioSentiers, depuis le site du projet : [biosentiers.heig-vd.ch/api](https://biosentiers.heig-vd.ch/api)
 
 ### Qui a créé le jeu de données?
-Le jeu de données a été créé par une série d’utilisateurs, principalement des enfants de 10 à 12 ans, lors de leur utilisation de l’application BioSentiers. Les données ont été récoltées l’équipe du projet BioSentiers, composée des membres des instituts MEI et INSIT à la HEIG-VD. [biosentiers.heig-vd.ch](https://biosentiers.heig-vd.ch/landing/)
+Le jeu de données a été créé par une série d’utilisateurs, principalement des enfants de 10 à 12 ans, lors de leur utilisation de l’application BioSentiers. Les données ont été récoltées par l’équipe du projet BioSentiers, composée des membres des instituts MEI et INSIT à la HEIG-VD. [biosentiers.heig-vd.ch](https://biosentiers.heig-vd.ch/landing/)
 
 ### Dans quel but?
 Le but de la récolte de ces données est de pouvoir analyser l’utilisation de l’application par des écoliers, notamment sur le type d’espèces qui ont été observées lors de la sortie ainsi que leurs déplacements dans l’espace.
@@ -65,4 +65,6 @@ Les objets loggés représentent chacun un événement dans l’application. Leu
 Les données se présentent au format ```.json``` ainsi que ```.geojson```.
 
 ### Idées de visualisation
-S’agissant de données géospatiales, la façon la plus indiquée de les représenter serait au moyen d’une carte topographique qui reprend des données (.shp, données swisstopo) du territoire que couvrent les données. On peut imaginer plusieurs façon de visualiser les sorties, par exemple en traçant les trajets parcourus par les élèves indivuellement, les événements spéciaux (observation d’une espèce), mais aussi en extraire des données générales comme le nombre total de mètres parcourus, un tableau pour visualiser toutes les espèces observées, etc. 
+S’agissant de données géospatiales, la façon la plus indiquée de les représenter serait au moyen d’une carte topographique qui reprend des données (```.shp```, données fournies par swisstopo par exemple) du territoire que couvrent les données.
+
+On peut imaginer plusieurs façon de visualiser les sorties, par exemple en traçant les trajets parcourus par les élèves indivuellement, les événements spéciaux (observation d’une espèce), mais aussi en extraire des données générales comme le nombre total de mètres parcourus, un tableau pour visualiser toutes les espèces observées, etc. 
