@@ -65,6 +65,6 @@ Les objets loggés représentent chacun un événement dans l’application. Leu
 Les données se présentent au format ```.json``` ainsi que ```.geojson```.
 
 ### Idées de visualisation
-S’agissant de données géospatiales, la façon la plus indiquée de les représenter serait au moyen d’une carte topographique qui reprend des données (```.shp```, données fournies par swisstopo par exemple) du territoire que couvrent les données.
+S’agissant de données géospatiales, la façon la plus indiquée de les représenter serait au moyen d’une carte topographique qui reprend des données (```.shp```  données fournies par swisstopo par exemple) du territoire que couvrent les données.
 
 On peut imaginer plusieurs façon de visualiser les sorties, par exemple en traçant les trajets parcourus par les élèves indivuellement, les événements spéciaux (observation d’une espèce), mais aussi en extraire des données générales comme le nombre total de mètres parcourus, un tableau pour visualiser toutes les espèces observées, etc. 
