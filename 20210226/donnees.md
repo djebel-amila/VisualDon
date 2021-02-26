@@ -1,29 +1,29 @@
-# Base de données «Biosentiers»
+# Base de données «BioSentiers»
 
 ## Table des matières
 
 - [Lien](#database)
 - [Description](#description)
-  - [D'où viennent elles?](#ou)
-  - [Qui a créé le jeu de données?](#qui)
-  - [Dans quel but?](#but)
-  - [Qu'est-ce qu'elles représentent?](#quoi)
-  - [Quel est le format?](#format)
-  - [Idées de visualisation](#idee)
+  - [D'où viennent-elles?](#doù-viennent-elles)
+  - [Qui a créé le jeu de données?](#qui-a-créé-le-jeu-de-données)
+  - [Dans quel but?](#dans-quel-but)
+  - [Qu'est-ce qu'elles représentent?](#quest-ce-quelles-représentent)
+  - [Quel est le format?](#quel-est-le-format)
+  - [Idées de visualisation](#idées-de-visualisation)
 
 
 ## Lien
-Lien vers la base de données : [Database Biosentiers](https://biosentiers.heig-vd.ch/api/trails/8c8c2474-4375-4121-95d3-763f381717df/data-package)
+Lien vers la base de données : [Database BioSentiers](https://biosentiers.heig-vd.ch/api/trails/8c8c2474-4375-4121-95d3-763f381717df/data-package)
 
 ## Description
-Il s’agit du log de l’application «Biosentiers» lors de plusieurs sorties avec des élèves yverdonnois qui a eu lieu en 2018.
+Il s’agit du log de l’application «BioSentiers» lors de plusieurs sorties avec des élèves yverdonnois qui a eu lieu en 2018.
 
 
-### D'où viennent elles?
-Les données ont été enregistrées lors de plusieurs sorties en 2018, et sont rendues disponibles par l’API de l’application Biosentiers, depuis le site du projet : [biosentiers.heig-vd.ch/api](https://biosentiers.heig-vd.ch/api)
+### D'où viennent-elles?
+Les données ont été enregistrées lors de plusieurs sorties en 2018, et sont rendues disponibles par l’API de l’application BioSentiers, depuis le site du projet : [biosentiers.heig-vd.ch/api](https://biosentiers.heig-vd.ch/api)
 
 ### Qui a créé le jeu de données?
-Le jeu de données a été créé par une série d’utilisateurs, principalement des enfants de 10 à 12 ans, lors de leur utilisation de l’application Biosentiers. Les données ont été récoltées l’équipe du projet BioSentiers, composée des membres des instituts MEI et INSIT à la HEIG-VD. [biosentiers.heig-vd.ch](https://biosentiers.heig-vd.ch/landing/)
+Le jeu de données a été créé par une série d’utilisateurs, principalement des enfants de 10 à 12 ans, lors de leur utilisation de l’application BioSentiers. Les données ont été récoltées l’équipe du projet BioSentiers, composée des membres des instituts MEI et INSIT à la HEIG-VD. [biosentiers.heig-vd.ch](https://biosentiers.heig-vd.ch/landing/)
 
 ### Dans quel but?
 Le but de la récolte de ces données est de pouvoir analyser l’utilisation de l’application par des écoliers, notamment sur le type d’espèces qui ont été observées lors de la sortie ainsi que leurs déplacements dans l’espace.
