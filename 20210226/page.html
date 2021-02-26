@@ -117,7 +117,7 @@
 
         var directionOfTime = 1;
         var reverse = false;
-        var OFFSET = 5;
+        var OFFSET = 10;
         var swissTime = document.getElementsByTagName('button')[0];
         var nycTime = document.getElementsByTagName('button')[1];
         var reverseTime = document.getElementsByTagName('button')[2];
@@ -131,8 +131,8 @@
         const step = () => {
             var date = new Date();
 
-            swissTime.onclick = function() {OFFSET = 5;}
-            nycTime.onclick = function() {OFFSET = -25;}
+            swissTime.onclick = function() {OFFSET = 10;}
+            nycTime.onclick = function() {OFFSET = -20;}
             reverseTime.onclick = function() {reverse =! reverse;}
 
             if(reverse==false){
