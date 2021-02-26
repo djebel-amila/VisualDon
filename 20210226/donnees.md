@@ -3,33 +3,43 @@ repo for the “VisualDon” class with Anders Bengtson
 
 
 
-## VisualDon exercice 2
+## Base de données «Biosentiers»
 
 ### Table des matières
 
-- [Database](#database)
+- [Lien](#database)
 - [Description](#description)
-  - [D'où viennent elles?](#d-ou-viennent-elles)
-  
+  - [D'où viennent elles?](#ou)
+  - [Qui a créé le jeu de données?](#qui)
+  - [Dans quel but?](#but)
+  - [Qu'est-ce qu'elles représentent?](#quoi)
+  - [Quel est le format?](#format)
+  - [Idées de visualisation](#idee)
+    
+    
 
 
 
-    D'où viennent elles?
-    Qui a créé le jeu de données? Dans quel but?
-    Qu'est-ce qu'elles représentent?
-    Quel est le format? (type de fichier...)
-    Idées de visualisation
+
+#### Lien
+Lien vers la base de données : [Database Biosentiers](https://biosentiers.heig-vd.ch/api/trails/8c8c2474-4375-4121-95d3-763f381717df/data-package)
+
+#### Description
+Il s’agit du log de l’application «Biosentiers» lors de plusieurs sorties avec des élèves yverdonnois qui a eu lieu en 2018.
 
 
-#### Database
+##### D'où viennent elles?
+Les données ont été enregistrées lors de plusieurs sorties en 2018, et sont rendues disponibles par l’API de l’application Biosentiers, depuis le site du projet : [biosentiers.heig-vd.ch/api](https://biosentiers.heig-vd.ch/api)
 
-* [Database Biosentiers](https://biosentiers.heig-vd.ch/api/trails/8c8c2474-4375-4121-95d3-763f381717df/data-package)
-* Lien vers la base de données
+##### Qui a créé le jeu de données?
+Le jeu de données a été créé par une série d’utilisateurs, principalement des enfants de 10 à 12 ans, lors de leur utilisation de l’application Biosentiers. Les données ont été récoltées l’équipe du projet BioSentiers, composée des membres des instituts MEI et INSIT à la HEIG-VD. [biosentiers.heig-vd.ch](https://biosentiers.heig-vd.ch/landing/)
 
-##### Description
+##### Dans quel but?
+Le but de la récolte de ces données est de pouvoir analyser l’utilisation de l’application par des écoliers, notamment sur le type d’espèces qui ont été observées lors de la sortie ainsi que leurs déplacements dans l’espace.
 
-The log objects are send to the backend and each represent an event in the app.
-Their structure is as follow:
+##### Qu'est-ce qu'elles représentent?
+
+Les objets loggés représentent chacun un événement dans l’application. Leur structure se présente comme suit:
 
 ```json
 {
@@ -41,11 +51,7 @@ Their structure is as follow:
 ```
 
 
-###### D'où viennent elles?
-
-D'où viennent elles ?
-
-###### `location`
+##### `location`
 
 > Fired each time the user's position is located by their device, and that the new position is at least 10 meters farer from the previous located position.
 
