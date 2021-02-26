@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+    <head>
+        <style>            
+            body {background: #000;}
+            svg {display: block;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);}
+        </style>
+    </head>
+    <body>
+        <svg viewBox="0 0 1000 1000">    
+            <g id="cadran">
+                <!-- background cadran -->
+                <circle cx="500" cy="500" r="500" fill="whitesmoke" stroke="none"/>
+                <!-- text cadran -->
+                <g id="brand" text-anchor="middle" font-size="25" font-family="helvetica neue">
+                    <text x="500" y="725" >edam ssiws</text>
+                </g>
+                <!-- marqueurs heures -->
+                <g id="hours" stroke-linecap="" stroke-dasharray="0 390 90 10" stroke="black" stroke-width="20">
+                    <line id="1h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(30, 500, 500)"/>
+                    <line id="2h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(60, 500, 500)"/>
+                    <line id="3h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(90, 500, 500)"/>
+                    <line id="4h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(120, 500, 500)"/>
+                    <line id="5h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(150, 500, 500)"/>
+                    <line id="6h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(180, 500, 500)"/>
+                    <line id="7h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(210, 500, 500)"/>
+                    <line id="8h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(240, 500, 500)"/>
+                    <line id="9h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(270, 500, 500)"/>
+                    <line id="10h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(300, 500, 500)"/>
+                    <line id="11h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(330, 500, 500)"/>
+                    <line id="12h" x1="500" y1="500" x2="500" y2="0"  transform="rotate(360, 500, 500)"/>
+                </g>
+                <!-- marqueurs minutes -->
+                <g id="minutes" stroke-linecap="" stroke-dasharray="0 435 45 10" stroke="black" stroke-width="10">
+                    <line id="1" x1="500" y1="500" x2="500" y2="0"  transform="rotate(6, 500, 500)"/>
+                    <line id="2" x1="500" y1="500" x2="500" y2="0"  transform="rotate(12, 500, 500)"/>
+                    <line id="3" x1="500" y1="500" x2="500" y2="0"  transform="rotate(18, 500, 500)"/>
+                    <line id="4" x1="500" y1="500" x2="500" y2="0"  transform="rotate(24, 500, 500)"/>
+                    <line id="5" x1="500" y1="500" x2="500" y2="0"  transform="rotate(30, 500, 500)"/>
+                    <line id="6" x1="500" y1="500" x2="500" y2="0"  transform="rotate(36, 500, 500)"/>
+                    <line id="7" x1="500" y1="500" x2="500" y2="0"  transform="rotate(42, 500, 500)"/>
+                    <line id="8" x1="500" y1="500" x2="500" y2="0"  transform="rotate(48, 500, 500)"/>
+                    <line id="9" x1="500" y1="500" x2="500" y2="0"  transform="rotate(54, 500, 500)"/>
+                    <line id="10" x1="500" y1="500" x2="500" y2="0"  transform="rotate(60, 500, 500)"/>
+                    <line id="11" x1="500" y1="500" x2="500" y2="0"  transform="rotate(66, 500, 500)"/>
+                    <line id="12" x1="500" y1="500" x2="500" y2="0"  transform="rotate(72, 500, 500)"/>
+                    <line id="13" x1="500" y1="500" x2="500" y2="0"  transform="rotate(78, 500, 500)"/>
+                    <line id="14" x1="500" y1="500" x2="500" y2="0"  transform="rotate(84, 500, 500)"/>
+                    <line id="15" x1="500" y1="500" x2="500" y2="0"  transform="rotate(90, 500, 500)"/>
+                    <line id="16" x1="500" y1="500" x2="500" y2="0"  transform="rotate(96, 500, 500)"/>
+                    <line id="17" x1="500" y1="500" x2="500" y2="0"  transform="rotate(102, 500, 500)"/>
+                    <line id="18" x1="500" y1="500" x2="500" y2="0"  transform="rotate(108, 500, 500)"/>
+                    <line id="19" x1="500" y1="500" x2="500" y2="0"  transform="rotate(114, 500, 500)"/>
+                    <line id="20" x1="500" y1="500" x2="500" y2="0"  transform="rotate(120, 500, 500)"/>
+                    <line id="21" x1="500" y1="500" x2="500" y2="0"  transform="rotate(126, 500, 500)"/>
+                    <line id="22" x1="500" y1="500" x2="500" y2="0"  transform="rotate(132, 500, 500)"/>
+                    <line id="23" x1="500" y1="500" x2="500" y2="0"  transform="rotate(138, 500, 500)"/>
+                    <line id="24" x1="500" y1="500" x2="500" y2="0"  transform="rotate(144, 500, 500)"/>
+                    <line id="25" x1="500" y1="500" x2="500" y2="0"  transform="rotate(150, 500, 500)"/>
+                    <line id="26" x1="500" y1="500" x2="500" y2="0"  transform="rotate(156, 500, 500)"/>
+                    <line id="27" x1="500" y1="500" x2="500" y2="0"  transform="rotate(162, 500, 500)"/>
+                    <line id="28" x1="500" y1="500" x2="500" y2="0"  transform="rotate(168, 500, 500)"/>
+                    <line id="29" x1="500" y1="500" x2="500" y2="0"  transform="rotate(174, 500, 500)"/>
+                    <line id="30" x1="500" y1="500" x2="500" y2="0"  transform="rotate(180, 500, 500)"/>
+                    <line id="31" x1="500" y1="500" x2="500" y2="0"  transform="rotate(186, 500, 500)"/>
+                    <line id="32" x1="500" y1="500" x2="500" y2="0"  transform="rotate(192, 500, 500)"/>
+                    <line id="33" x1="500" y1="500" x2="500" y2="0"  transform="rotate(198, 500, 500)"/>
+                    <line id="34" x1="500" y1="500" x2="500" y2="0"  transform="rotate(204, 500, 500)"/>
+                    <line id="35" x1="500" y1="500" x2="500" y2="0"  transform="rotate(210, 500, 500)"/>
+                    <line id="36" x1="500" y1="500" x2="500" y2="0"  transform="rotate(216, 500, 500)"/>
+                    <line id="37" x1="500" y1="500" x2="500" y2="0"  transform="rotate(222, 500, 500)"/>
+                    <line id="38" x1="500" y1="500" x2="500" y2="0"  transform="rotate(228, 500, 500)"/>
+                    <line id="39" x1="500" y1="500" x2="500" y2="0"  transform="rotate(234, 500, 500)"/>
+                    <line id="40" x1="500" y1="500" x2="500" y2="0"  transform="rotate(240, 500, 500)"/>
+                    <line id="41" x1="500" y1="500" x2="500" y2="0"  transform="rotate(246, 500, 500)"/>
+                    <line id="42" x1="500" y1="500" x2="500" y2="0"  transform="rotate(252, 500, 500)"/>
+                    <line id="43" x1="500" y1="500" x2="500" y2="0"  transform="rotate(258, 500, 500)"/>
+                    <line id="44" x1="500" y1="500" x2="500" y2="0"  transform="rotate(264, 500, 500)"/>
+                    <line id="45" x1="500" y1="500" x2="500" y2="0"  transform="rotate(270, 500, 500)"/>
+                    <line id="46" x1="500" y1="500" x2="500" y2="0"  transform="rotate(276, 500, 500)"/>
+                    <line id="47" x1="500" y1="500" x2="500" y2="0"  transform="rotate(282, 500, 500)"/>
+                    <line id="48" x1="500" y1="500" x2="500" y2="0"  transform="rotate(288, 500, 500)"/>
+                    <line id="49" x1="500" y1="500" x2="500" y2="0"  transform="rotate(294, 500, 500)"/>
+                    <line id="50" x1="500" y1="500" x2="500" y2="0"  transform="rotate(300, 500, 500)"/>
+                    <line id="51" x1="500" y1="500" x2="500" y2="0"  transform="rotate(306, 500, 500)"/>
+                    <line id="52" x1="500" y1="500" x2="500" y2="0"  transform="rotate(312, 500, 500)"/>
+                    <line id="53" x1="500" y1="500" x2="500" y2="0"  transform="rotate(318, 500, 500)"/>
+                    <line id="54" x1="500" y1="500" x2="500" y2="0"  transform="rotate(324, 500, 500)"/>
+                    <line id="55" x1="500" y1="500" x2="500" y2="0"  transform="rotate(330, 500, 500)"/>
+                    <line id="56" x1="500" y1="500" x2="500" y2="0"  transform="rotate(336, 500, 500)"/>
+                    <line id="57" x1="500" y1="500" x2="500" y2="0"  transform="rotate(342, 500, 500)"/>
+                    <line id="58" x1="500" y1="500" x2="500" y2="0"  transform="rotate(348, 500, 500)"/>
+                    <line id="59" x1="500" y1="500" x2="500" y2="0"  transform="rotate(354, 500, 500)"/>
+                    <line id="60" x1="500" y1="500" x2="500" y2="0"  transform="rotate(360, 500, 500)"/>
+                </g>
+            </g>
+            <g id="aiguilles" stroke-linecap="round" stroke-linejoin="round">    
+                <!-- aiguilles des heures -->
+                <path id="hour" d="M 500 500 C 400 400 600 300 500 200" fill="none" stroke="black" stroke-width="50"></path>
+                <!-- aiguilles des minutes -->
+                <line id="min"  x1="500" y1="500" x2="500" y2="100" stroke="rgba(70,70,70,1)" stroke-width="40"></line>
+                <!-- aiguilles des secondes -->
+                <path id="sec" d="M 500 500 L 520 450 L 480 400 L 520 350 L 480 300 L 520 250 L 480 200 L 520 150 L 480 100 L 520 50" fill="none" stroke="red" stroke-width="30"></path>
+             </g>
+        </svg>
+    </body>
+</html>
+
+<script type="application/javascript">
+    
+    
+    var cx = 500;
+    var cy = 500;
+    var sec = document.getElementById("sec");
+    
+    var date = new Date();
+    
+    
+    
+    function seconds(angleSeconds){
+        sec.setAttribute("transform",`rotate(${angleSeconds}, ${cx}, ${cy})`)            
+    }
+    
+    let angle = 360 * date.getSeconds() / 60;
+    
+    const step = () => {
+        angle = 360 * date.getSeconds() / 60;
+        seconds(angle)
+        requestAnimationFrame(step) 
+    }
+    
+    step()
+    
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
