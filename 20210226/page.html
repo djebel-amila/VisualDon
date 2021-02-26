@@ -102,31 +102,35 @@
                 <path id="sec" d="M 500 500 L 520 450 L 480 400 L 520 350 L 480 300 L 520 250 L 480 200 L 520 150 L 480 100 L 520 50" fill="none" stroke="red" stroke-width="30"></path>
              </g>
         </svg>
+        
+         <button id="reversetime" onclick="reverse()">reverse</button> 
+        
     </body>
 </html>
 
 <script type="application/javascript">
-    
-    
-    var cx = 500;
-    var cy = 500;
+    var CENTER_X = 500;
+    var CENTER_Y = 500;
     var sec = document.getElementById("sec");
-    
-    var date = new Date();
-    
-    
-    
-    function seconds(angleSeconds){
-        sec.setAttribute("transform",`rotate(${angleSeconds}, ${cx}, ${cy})`)            
+    var min = document.getElementById("min");
+    var hour = document.getElementById("hour");
+        
+    function seconds(angleSeconds, angleMinutes, angleHours){
+        sec.setAttribute("transform",`rotate(${angleSeconds}, ${CENTER_X}, ${CENTER_Y})`)            
+        min.setAttribute("transform",`rotate(${angleMinutes}, ${CENTER_X}, ${CENTER_Y})`)            
+        hour.setAttribute("transform",`rotate(${angleHours}, ${CENTER_X}, ${CENTER_Y})`)            
     }
-    
-    let angle = 360 * date.getSeconds() / 60;
     
     const step = () => {
-        angle = 360 * date.getSeconds() / 60;
-        seconds(angle)
-        requestAnimationFrame(step) 
-    }
+        var date = new Date();
+        getAngleSeconds = 360 * date.getSeconds() / 60;
+        getAngleMinutes = 360 * date.getMinutes() / 60;
+        getAngleHours = 360 * date.getHours() / 60;
+        
+        
+        seconds(getAngleSeconds * reverse, getAngleMinutes * reverse, getAngleHours * reverse)
+        requestAnimationFrame(step)
+    }    
     
     step()
     
