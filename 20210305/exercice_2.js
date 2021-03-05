@@ -51,7 +51,7 @@ console.log('Nombre d\'habitants à Yverdon', habitantsYverdon)
 // 30143
 
 // ???
-const sommeHabitants = villes.reduce(r, d) => r + d.population,0)
+const sommeHabitants = villes.reduce((r, d) => r + d.population,0)
 
 console.log('Nombre total d\'habitants', sommeHabitants)
 
