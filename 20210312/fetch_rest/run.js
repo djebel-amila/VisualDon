@@ -15,6 +15,7 @@ const posts = posts = fetch(URL_POSTS)
     .then(response => response.json())
     .then(json => console.log(json))
 
+    
 }
 
 fetchUsers()
