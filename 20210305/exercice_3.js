@@ -10,7 +10,7 @@ const reducer = (r , d) => {
     if (r[d.properties.speciesId]) { 
       return { ...r, [d.properties.speciesId]: r[d.properties.speciesId] + 1 }
    } else {
-        return {...r, [d.properties.speciesId]: 1}
+        return {...r, [d.properties.speciesId]: 1} 
    }
  }
 

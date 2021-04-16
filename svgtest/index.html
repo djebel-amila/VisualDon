@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+    </head>
+    <body>
+        <script>
+            d3.xml('eye.svg')
+                .then(data => {
+                    d3.select('body').node().append(data.documentElement)
+                })
+        </script>
+    </body>
+</html>
