@@ -1,8 +1,8 @@
-# D3
+# Rosling
 
-## Hormis ```select```, quelles fonctions de ```d3.js```, ont été utilisées pour le graphique en bâtons?
+## Quel message Hans Rosling veut-il faire passer?
 
- On a utilisé les trois fonctions suivantes:
-    — ```scaleLinear``` pour remapper les données au format local et contextuel. 
-    — ```max```, pour trouver la valeur maximum parmi les valeurs d’un tableau (DATA ici).
-    — ```axisLeft```, un ensemble de fonctions pour afficher (et mettre en page) une échelle à afficher sur un histogramme simple. 
+[Vidéo explicative d’Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) sur la relation entre richesse et espérance de vie.
+
+ Hans Rosling nous explique qu’il existe une relation entre richesse et santé. Plus l’on est riche, plus on vit longtemps. 
+ En outre, il explique que malgré les apparences, ou le sentiment général, la situation d’aujourd'hui n’est pas pire qu’autrefois. Au contraire, l’ensemble des pays du monde a vu ses richesses *et* son espérance de vie augmenter. 
