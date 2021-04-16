@@ -1,0 +1,62 @@
+[
+  {
+    nom: 'Lausanne',
+    passage: 89200,
+    passageOuvres: 102500,
+    passageNonouvre: 59800
+  },
+  {
+    nom: 'Vevey',
+    passage: 21000,
+    passageOuvres: 24100,
+    passageNonouvre: 14100
+  },
+  {
+    nom: 'Renens VD',
+    passage: 18300,
+    passageOuvres: 22500,
+    passageNonouvre: 8900
+  },
+  {
+    nom: 'Morges',
+    passage: 17000,
+    passageOuvres: 20300,
+    passageNonouvre: 9700
+  },
+  {
+    nom: 'Yverdon-les-Bains',
+    passage: 16800,
+    passageOuvres: 19800,
+    passageNonouvre: 10200
+  },
+  {
+    nom: 'Nyon',
+    passage: 15900,
+    passageOuvres: 19500,
+    passageNonouvre: 8100
+  },
+  {
+    nom: 'Montreux',
+    passage: 15800,
+    passageOuvres: 16500,
+    passageNonouvre: 14300
+  },
+  {
+    nom: 'Aigle',
+    passage: 6800,
+    passageOuvres: 7700,
+    passageNonouvre: 5000
+  },
+  {
+    nom: 'Coppet',
+    passage: 6400,
+    passageOuvres: 7900,
+    passageNonouvre: 3000
+  },
+  {
+    nom: 'Gland',
+    passage: 5500,
+    passageOuvres: 7000,
+    passageNonouvre: 2300
+  }
+]
