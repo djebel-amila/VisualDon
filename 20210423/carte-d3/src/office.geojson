@@ -1,0 +1,512 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T10:37:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3329574835",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "8a",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Pêcheurs",
+        "name": "Maillefer & Hunziker",
+        "office": "company",
+        "website": "https://humagis.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6447714,
+          46.7817065
+        ]
+      },
+      "id": "node/3329574835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3375133781",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "description": "Divorce, séparation, rentes AI, assurances sociales, droit du travail, successions.",
+        "name": "Etude d'avocat Merenyi",
+        "office": "lawyer",
+        "opening_hours": "09:00-18:00",
+        "phone": "+41 24 426 02 02",
+        "source:date": "2015-02-27",
+        "website": "https://www.merenyi-avocats.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6427854,
+          46.7775663
+        ]
+      },
+      "id": "node/3375133781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3387847392",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "name": "Permanence juridique",
+        "office": "lawyer",
+        "opening_hours": "Tu,We 17:00-19:00; Th 12:30-13:30",
+        "website": "http://www.merenyi-avocats.ch/permanence-juridique-yverdon.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6427825,
+          46.7775917
+        ]
+      },
+      "id": "node/3387847392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373258024",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Pêcheurs",
+        "description": "Jaquier-Pointet SA - Géomètres brevetés Géomatique - Génie civil - Aménagement du territoire",
+        "name": "Jaquier-Pointet SA",
+        "office": "company",
+        "opening_hours": "07:00-12:00,13:30-16:45",
+        "phone": "+41 24 424 60 70",
+        "website": "https://japo.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6439883,
+          46.7806369
+        ]
+      },
+      "id": "node/4373258024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4427645622",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "39",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "name": "Bernard Nicod",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:30-18:00",
+        "phone": "+41 24 424 24 24",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bernard-nicod.ch/fr/contact-yverdon",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6438745,
+          46.7774958
+        ]
+      },
+      "id": "node/4427645622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625225493",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "57",
+        "addr:postcode": "1400",
+        "addr:street": "Avenue Haldimand",
+        "name": "Domicim Yverdon",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Th 09:00-12:00,13:30-17:00; Fr 09:00-12:0,13:30-16:30",
+        "phone": "+41 (0)24 424 15 15",
+        "website": "https://www.domicim.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6476541,
+          46.7788574
+        ]
+      },
+      "id": "node/4625225493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4644080691",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "name": "Centre OSP Nord Vaudois",
+        "name:fr": "Centre OSP Nord Vaudois",
+        "office": "government",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "+41 24 557 73 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6363094,
+          46.7817446
+        ]
+      },
+      "id": "node/4644080691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832117167",
+        "name": "Swiss Interim",
+        "office": "employment_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6398078,
+          46.7799675
+        ]
+      },
+      "id": "node/4832117167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881646322",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "23",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Fidurex",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Fr 08:00-11:30, 13:30-16:30",
+        "phone": "+41 24 425 71 55",
+        "website": "https://www.fidurex.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6394086,
+          46.7787764
+        ]
+      },
+      "id": "node/4881646322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881646324",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "43",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "CSS Assurance",
+        "office": "insurance",
+        "opening_hours": "Mo-Th 08:30-12:00,13:30-17:00; Fr 08:30-12:00,13:30-16:00",
+        "phone": "+41 58 277 76 00",
+        "website": "https://www.css.ch/fr/home/privatpersonen/agenturen/yverdonlesbains.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6384196,
+          46.7789951
+        ]
+      },
+      "id": "node/4881646324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881646331",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "24",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Ferreira Assurances et crédits",
+        "office": "insurance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6390805,
+          46.778635
+        ]
+      },
+      "id": "node/4881646331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881665023",
+        "name": "Atelier d'architecture Alain Vanderauwera",
+        "office": "architect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6397263,
+          46.7784584
+        ]
+      },
+      "id": "node/4881665023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881667122",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Generali Assurances",
+        "office": "insurance",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:30",
+        "phone": "+41 58 471 09 61",
+        "website": "https://www.generali.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6399907,
+          46.778678
+        ]
+      },
+      "id": "node/4881667122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881667123",
+        "name": "Atelier Sahli & Kummer - Architectes d'intérieur",
+        "office": "architect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6398204,
+          46.7784467
+        ]
+      },
+      "id": "node/4881667123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5000671229",
+        "addr:housenumber": "28",
+        "addr:street": "Avenue des Sports",
+        "level": "4",
+        "name": "Association suisse des locataires Nord Vaudois",
+        "office": "association",
+        "opening_hours": "Mo 09:00-12:00,13:30-16:30; Tu 09:00-12:00,13:00-16:30; We 09:00-12:00,13:30-16:30; Th 09:00-12:00,13:00-16:30; Fr 09:00-13:30",
+        "operator": "Association suisse des locataires",
+        "operator:wikidata": "Q2256649",
+        "operator:wikipedia": "fr:Association suisse des locataires",
+        "phone": "+41 840 17 10 07",
+        "short_name": "ASLOCA",
+        "website": "http://www.asloca.ch/vaud/nord-vaudois-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.647681,
+          46.7805592
+        ]
+      },
+      "id": "node/5000671229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5376665921",
+        "name": "Helvetia Assurances",
+        "office": "insurance",
+        "opening_hours": "Mo-Fr 08:00-12:00,13:30-17:00",
+        "phone": "+41 58 280 67 77",
+        "website": "https://www.helvetia.ch/yverdonlesbains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6410307,
+          46.7794315
+        ]
+      },
+      "id": "node/5376665921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6385257423",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de Neuchâtel",
+        "name": "Registre Foncier",
+        "office": "administrative",
+        "opening_hours": "Mo-Fr 08:30-11:45; 13:30-16:30",
+        "phone": "+41 24 557 74 30",
+        "website": "https://www.vd.ch/?id=1003327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6362282,
+          46.7808313
+        ]
+      },
+      "id": "node/6385257423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6475342566",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:housenumber": "14",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "description": "Cabinet de coaching - changement de vie, reconversion professionnelle et recherche d'alternatives. Pour particuliers et entreprises. A Yverdon-les-Bains et Lausanne.",
+        "name": "Alternatives & Transitions",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "website": "https://altertransitions.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6428479,
+          46.777568
+        ]
+      },
+      "id": "node/6475342566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915605851",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:housenumber": "19",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Moulins",
+        "amenity": "social_centre",
+        "ele": "434",
+        "email": "cosy@yverdon-les-bains.ch",
+        "name": "Conseil des Séniors Yverdon-les-Bains",
+        "office": "company",
+        "operator": "Conseil des Séniors Yverdon-les-Bains",
+        "operator:type": "public",
+        "phone": "+41 (0) 24 420 10 57",
+        "website": "https://cosyverdon.ch/index.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6367396,
+          46.7784949
+        ]
+      },
+      "id": "node/6915605851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017409733",
+        "name": "La Bâloise",
+        "office": "insurance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6465029,
+          46.7790976
+        ]
+      },
+      "id": "node/7017409733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017423927",
+        "name": "Adecco",
+        "office": "employment_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6522524,
+          46.7782884
+        ]
+      },
+      "id": "node/7017423927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7602658792",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "36",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Allianz",
+        "office": "insurance",
+        "opening_hours": "Mo-Fr 08:00-12:00,14:00-17:00",
+        "phone": "+41 58 357 77 77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6383452,
+          46.7791405
+        ]
+      },
+      "id": "node/7602658792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8064440585",
+        "addr:postcode": "1400",
+        "email": "info@carbonie.ch",
+        "name": "CARBONIE DEMENAGEMENT Yverdon",
+        "office": "company",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "phone": "+41 24 588 00 71",
+        "website": "https://www.carbonie.ch/demenagement-yverdon/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6385089,
+          46.7794157
+        ]
+      },
+      "id": "node/8064440585"
+    }
+  ]
+}

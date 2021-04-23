@@ -1,0 +1,3787 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T10:42:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34424738",
+        "addr:housenumber": "3",
+        "addr:street": "Avenue de la Gare",
+        "brand": "k kiosk",
+        "brand:wikidata": "Q60381703",
+        "brand:wikipedia": "it:K Kiosk",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "k kiosk",
+        "roof:levels": "0",
+        "shop": "kiosk",
+        "survey:date": "2020-07-18",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6405834,
+              46.7810549
+            ],
+            [
+              6.6405407,
+              46.7810062
+            ],
+            [
+              6.6409068,
+              46.7808556
+            ],
+            [
+              6.6409496,
+              46.7809043
+            ],
+            [
+              6.6407736,
+              46.7809767
+            ],
+            [
+              6.6405834,
+              46.7810549
+            ]
+          ]
+        ]
+      },
+      "id": "way/34424738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79823858",
+        "addr:housenumber": "13",
+        "addr:street": "Avenue des Sports",
+        "building": "yes",
+        "name": "Garage Bel-Air",
+        "shop": "car_repair",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6533189,
+              46.7808049
+            ],
+            [
+              6.6530912,
+              46.7805004
+            ],
+            [
+              6.6533584,
+              46.7804061
+            ],
+            [
+              6.6533176,
+              46.7803516
+            ],
+            [
+              6.6535245,
+              46.7802786
+            ],
+            [
+              6.65366,
+              46.7804599
+            ],
+            [
+              6.6535716,
+              46.780491
+            ],
+            [
+              6.6536963,
+              46.7806666
+            ],
+            [
+              6.6533189,
+              46.7808049
+            ]
+          ]
+        ]
+      },
+      "id": "way/79823858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79939589",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "27",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Moulins",
+        "building": "yes",
+        "name": "Eco Market",
+        "opening_hours": "Mo-Sa 08:00-18:30",
+        "shop": "supermarket",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "website": "https://www.ecomarketyverdon.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6359427,
+              46.777239
+            ],
+            [
+              6.6361139,
+              46.7773591
+            ],
+            [
+              6.6361299,
+              46.7773483
+            ],
+            [
+              6.6361836,
+              46.777386
+            ],
+            [
+              6.6360797,
+              46.7774559
+            ],
+            [
+              6.6359835,
+              46.7773885
+            ],
+            [
+              6.6359549,
+              46.7774077
+            ],
+            [
+              6.6358262,
+              46.7773174
+            ],
+            [
+              6.6359427,
+              46.777239
+            ]
+          ]
+        ]
+      },
+      "id": "way/79939589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291092161",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1400",
+        "addr:street": "Rue d'Orbe",
+        "name": "Coop Bel-Air",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+        "operator": "Coop",
+        "payment:twint": "yes",
+        "phone": "+41 24 423 51 70",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.coop.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6357906,
+          46.7800543
+        ]
+      },
+      "id": "node/291092161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292178895",
+        "cash_withdrawal": "postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Coop Pronto",
+        "opening_hours": "Mo-Sa 05:00-23:00; Su 06:00-23:00",
+        "payment:twint": "yes",
+        "shop": "convenience",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6403202,
+          46.7815587
+        ]
+      },
+      "id": "node/292178895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297070224",
+        "name": "Boulangerie des Cygnes",
+        "opening_hours": "Mo-Fr 06:00-18:30; Sa,Su 06:00-18:00",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6366854,
+          46.7863805
+        ]
+      },
+      "id": "node/297070224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/470542666",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "addr:street": "Place Pestalozzi",
+        "name": "Payot",
+        "opening_hours": "Mo 10:00-18:30; Tu-Fr 09:00-18:30; Sa 08:30-18:00",
+        "shop": "books",
+        "toilets:wheelchair": "no",
+        "website": "https://www.payot.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6415981,
+          46.7786884
+        ]
+      },
+      "id": "node/470542666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/765993244",
+        "name": "Cuendet",
+        "shop": "convenience",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wheelchair:description": "Pas de toilette, rayons étroits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6487859,
+          46.7786081
+        ]
+      },
+      "id": "node/765993244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/828159627",
+        "cash_withdrawal": "postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Manor",
+        "opening_hours": "Sa 08:00-18:00; Mo-Fr 08:30-18:30",
+        "operator": "Manor",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6389823,
+          46.7795855
+        ]
+      },
+      "id": "node/828159627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/828159644",
+        "cash_withdrawal": "postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Manor",
+        "opening_hours": "Mo-Th 08:30-18:30; Fr 08:30-19:30; Sa 8:00-17:00",
+        "operator": "Manor",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6387064,
+          46.7800377
+        ]
+      },
+      "id": "node/828159644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848522910",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "name": "Laiterie du Château",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:00-14:00",
+        "operator": "Laiterie Fromagerie Castella",
+        "phone": "+41 24 425 51 12",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "website": "http://www.laiterie-castella.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6419145,
+          46.7778443
+        ]
+      },
+      "id": "node/848522910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895374840",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "31",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Coiffure Daniela",
+        "opening_hours": "Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-14:00",
+        "phone": "+41 24 425 71 01",
+        "shop": "hairdresser",
+        "website": "http://www.coiffure-daniela-yverdon.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.638116,
+          46.7790571
+        ]
+      },
+      "id": "node/895374840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895394666",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "1400",
+        "addr:street": "Rue Roger-de-Guimps",
+        "name": "Sublime Coiffure",
+        "opening_hours": "Tu-Fr 08:00-12:00, 13:30-18:30; Sa 08:00-15:00",
+        "phone": "+41 24 425 09 96",
+        "shop": "hairdresser",
+        "website": "http://www.sublime.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6385501,
+          46.7782192
+        ]
+      },
+      "id": "node/895394666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895408601",
+        "name": "Espace Coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.639393,
+          46.7784921
+        ]
+      },
+      "id": "node/895408601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895422931",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Optique Piguet",
+        "opening_hours": "Mo 10:00-12:00,13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:00-12:00,13:30-17:00",
+        "phone": "+41 24 426 18 26",
+        "shop": "optician",
+        "website": "https://www.optique-piguet.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6403337,
+          46.77862
+        ]
+      },
+      "id": "node/895422931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934844909",
+        "access:covid19": "yes",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "16",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Collège",
+        "delivery:covid19": "yes",
+        "name": "Boucherie Leuba",
+        "opening_hours": "Mo-Tu 07:00-12:15,14:00-18:30; We 07:00-12:15,Tu-Fr 07:00-12:15,14:00-18:30; Sa 07:00-16:00",
+        "opening_hours:covid19": "open",
+        "phone": "+41 24 425 26 40",
+        "shop": "butcher",
+        "takeaway:covid19": "yes",
+        "website": "http://www.boucherie-leuba.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6379122,
+          46.7793418
+        ]
+      },
+      "id": "node/934844909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940233837",
+        "name": "Swisscom Shop",
+        "shop": "electronics",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6353515,
+          46.7812902
+        ]
+      },
+      "id": "node/940233837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940811703",
+        "name": "H&M",
+        "opening_hours:covid19": "off",
+        "operator": "H&M",
+        "shop": "clothes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6366019,
+          46.7804933
+        ]
+      },
+      "id": "node/940811703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997610141",
+        "name": "Au Petit Paradis",
+        "shop": "florist",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6430466,
+          46.7778028
+        ]
+      },
+      "id": "node/997610141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1088979891",
+        "name": "elisabeth coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6366379,
+          46.7867721
+        ]
+      },
+      "id": "node/1088979891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1214933367",
+        "name": "CFF",
+        "opening_hours": "Mo-Fr 10:00-12:00,14:00-16:00",
+        "shop": "travel_agency",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6410579,
+          46.7814189
+        ]
+      },
+      "id": "node/1214933367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1214933369",
+        "name": "Boulangerie Pouly",
+        "opening_hours": "Mo-Fr 06:00-18:00; Sa-Su 07:00-18:00",
+        "pastry_shop": "yes",
+        "phone": "+41 24 426 35 34",
+        "shop": "bakery",
+        "survey:date": "2020-07-17",
+        "website": "https://pouly.ch/magasin/gare-dyverdon",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.641174,
+          46.7814
+        ]
+      },
+      "id": "node/1214933369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1270009665",
+        "addr:housenumber": "33B",
+        "addr:street": "Rue des Cygnes",
+        "email": "isabel.coiffure.yverdon@gmail.com",
+        "name": "Isabel coiffure",
+        "opening_hours": "Tu-Th 8:30-12:00, 13:30-18:30; Fr 8:30-18:30; Sa 08:00-16:00",
+        "phone": "+41 24 425 47 46",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6355192,
+          46.7857215
+        ]
+      },
+      "id": "node/1270009665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762518931",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "name": "La Ferme",
+        "opening_hours": "Mo 14:00-18:30; Tu-Th 08:30-12:15,13:30-18:30; Fr 08:30-18:30; Sa 08:30-17:00",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "website": "http://www.lafermeyverdon.ch",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6429688,
+          46.7778337
+        ]
+      },
+      "id": "node/1762518931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2060734636",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "name": "Boulangerie du Château",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6425648,
+          46.7776548
+        ]
+      },
+      "id": "node/2060734636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801391",
+        "name": "ALJA Nouveau Tissus & Mercerie",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-12:30,13:30-17:00",
+        "shop": "interior_decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6408849,
+          46.7788383
+        ]
+      },
+      "id": "node/2301801391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801400",
+        "name": "Boulangerie A. Martin",
+        "shop": "bakery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6381687,
+          46.779872
+        ]
+      },
+      "id": "node/2301801400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801403",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Boutique MOA",
+        "phone": "+41 24 420 32 28",
+        "shop": "second_hand",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6395927,
+          46.7788732
+        ]
+      },
+      "id": "node/2301801403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801407",
+        "name": "C&A",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-18:00",
+        "shop": "clothes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6400195,
+          46.7792598
+        ]
+      },
+      "id": "node/2301801407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801410",
+        "name": "C&A",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-18:00",
+        "shop": "clothes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6404372,
+          46.7796595
+        ]
+      },
+      "id": "node/2301801410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801419",
+        "cash_withdrawal": "migros_bank;postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Denner",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-18:00",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6412126,
+          46.7793604
+        ]
+      },
+      "id": "node/2301801419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801422",
+        "name": "Elna",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 08:30-12:00,13:30-17:00",
+        "shop": "interior_decoration"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6408365,
+          46.7788618
+        ]
+      },
+      "id": "node/2301801422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801425",
+        "name": "Giannis Coiffure",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6386031,
+          46.7799046
+        ]
+      },
+      "id": "node/2301801425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801428",
+        "name": "Librairie l'étage",
+        "opening_hours": "Mo 13:00-18:30; Tu-Fr 09:00-18:30; Sa 08:30-17:00",
+        "shop": "books",
+        "website": "http://www.l-etage.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6384565,
+          46.7801241
+        ]
+      },
+      "id": "node/2301801428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801433",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "28",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "fair_trade": "only",
+        "name": "Magasin du Monde",
+        "opening_hours": "Mo 14:00-18:30; Tu-Fr 09:00-12:00,14:00-18:30; Sa 08:00-17:00",
+        "operator": "Magasin du Monde",
+        "phone": "+41 24 425 16 84",
+        "shop": "boutique",
+        "website": "http://www.mdm.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6388444,
+          46.7790185
+        ]
+      },
+      "id": "node/2301801433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801439",
+        "name": "Metro Boutique",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 08:30-18:00",
+        "shop": "clothes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640827,
+          46.7794989
+        ]
+      },
+      "id": "node/2301801439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801443",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "24",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Musique & Son",
+        "opening_hours": "Tu-Fr 09:00-12:00, 13:45-18:15; Sa 09:00-15:00",
+        "phone": "+41 24 425 88 18",
+        "shop": "musical_instrument",
+        "website": "http://www.musique-son.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6391622,
+          46.7789546
+        ]
+      },
+      "id": "node/2301801443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801447",
+        "name": "Nikita Boutique",
+        "opening_hours": "Tu-Sa 10:00-12:00,13:30-18:00",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6411613,
+          46.7787458
+        ]
+      },
+      "id": "node/2301801447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801450",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "25",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Boucherie Costa",
+        "opening_hours": "Mo-Fr 08:00-12:00, Mo,Tu,Th,Fr 14:00-18:30; Sa 08:00-16:00",
+        "phone": "+41 24 425 50 50",
+        "shop": "butcher",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.639266,
+          46.7788031
+        ]
+      },
+      "id": "node/2301801450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801458",
+        "name": "Amplifon",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:00-17:30; Sa 08:30-12:00",
+        "shop": "hearing_aids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6407536,
+          46.7788983
+        ]
+      },
+      "id": "node/2301801458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2699687712",
+        "check_date:opening_hours": "2020-11-30",
+        "name": "Passionnément Chocolat",
+        "opening_hours": "Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-17:00",
+        "shop": "confectionery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6364757,
+          46.7825245
+        ]
+      },
+      "id": "node/2699687712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2699687719",
+        "name": "Liberty Motos",
+        "opening_hours": "Mo-We 08:00-12:00,13:00-18:00; Tu 08:00-12:00,13:00-20:00; Fr 08:00-12:00,13:30-18:00",
+        "shop": "motorcycle",
+        "website": "http://libertymotos.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6357839,
+          46.782079
+        ]
+      },
+      "id": "node/2699687719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3036990024",
+        "name": "McOptic",
+        "shop": "optician",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6360427,
+          46.7805268
+        ]
+      },
+      "id": "node/3036990024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3528449588",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "7-9",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Collège",
+        "name": "Favre cycles et motos S.A.",
+        "opening_hours": "Mo-Sa 09:00-12:00,14:00-18:00",
+        "phone": "+41 24 425 26 81",
+        "shop": "bicycle",
+        "website": "http://favre-cycles-motos.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6381349,
+          46.7795641
+        ]
+      },
+      "id": "node/3528449588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3578352177",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "17",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de l'Industrie",
+        "name": "Barra",
+        "phone": "+41 24 426 03 00",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6486753,
+          46.7801108
+        ]
+      },
+      "id": "node/3578352177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3661424569",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "34",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Sud-Est",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 10:00-12:00,14:00-18:30; Sa 09:00-17:00",
+        "phone": "+41 24 425 11 90",
+        "shop": "furniture",
+        "website": "http://www.sud-est.biz/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6384958,
+          46.779093
+        ]
+      },
+      "id": "node/3661424569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4058918022",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "18",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Atmosphère Fleurs",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+        "phone": "+41 24 425 44 55",
+        "shop": "florist",
+        "website": "https://www.atmospherefleurs.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6393956,
+          46.778908
+        ]
+      },
+      "id": "node/4058918022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4058918023",
+        "name": "Boutique d'Or",
+        "shop": "jewelry",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6394855,
+          46.7788922
+        ]
+      },
+      "id": "node/4058918023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4058918024",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Droguerie Hofer",
+        "opening_hours": "Mo 14:00-18:00; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00,14:00-17:00",
+        "operator": "Droguerie Hofer",
+        "phone": "+41 24 425 13 34",
+        "shop": "chemist",
+        "website": "https://www.droguerie-hofer.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6402169,
+          46.7787552
+        ]
+      },
+      "id": "node/4058918024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4058918025",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "21",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Les thés du voyage",
+        "opening_hours": "Mo 14:00-18:30; Tu-Fr 09:00-12:30,14:00-18:30; Sa 09:00-17:00",
+        "phone": "+41 24 426 64 37",
+        "shop": "tea",
+        "website": "https://www.lesthesduvoyage.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6394943,
+          46.7787645
+        ]
+      },
+      "id": "node/4058918025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4288375014",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "48",
+        "addr:postcode": "1400",
+        "addr:street": "Avenue des Sports",
+        "email": "yverdon@landinordvaudoisvenoge.ch",
+        "name": "Landi",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-18:00",
+        "operator": "Landi",
+        "phone": "+41 58 434 39 40",
+        "shop": "doityourself",
+        "website": "http://www.landinordvaudoisvenoge.ch/magasin-landi/landi-yverdon-les-bains",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6537723,
+          46.7793375
+        ]
+      },
+      "id": "node/4288375014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4356794998",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "name": "Coiffure New-Look",
+        "name:fr": "Coiffure New-Look",
+        "phone": "+41 24 425 09 59",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6380219,
+          46.779881
+        ]
+      },
+      "id": "node/4356794998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435685180",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "24",
+        "addr:postcode": "1400",
+        "addr:street": "Rue Cordey",
+        "name": "Romailler",
+        "shop": "bicycle",
+        "toilets:wheelchair": "no",
+        "website": "http://www.romailler.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6480661,
+          46.777655
+        ]
+      },
+      "id": "node/4435685180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520775225",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "38",
+        "addr:postcode": "1400",
+        "addr:street": "Avenue Haldimand",
+        "name": "Garage Moderne",
+        "operator": "Garage Plus",
+        "shop": "car_repair",
+        "website": "https://garagemoderne.garageplus.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6480681,
+          46.7784074
+        ]
+      },
+      "id": "node/4520775225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4543092697",
+        "brand": "BMW",
+        "name": "Dimab SA",
+        "opening_hours": "Mo-Fr 07:30-12:00,13:30-18:30; Sa 09:00-15:00",
+        "shop": "car",
+        "website": "https://dealer.bmw.ch/dimab-yverdon/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6460541,
+          46.7788546
+        ]
+      },
+      "id": "node/4543092697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4543329511",
+        "name": "JALLUT Peintures",
+        "opening_hours": "Mo-Fr 07:00-12:00,13:00-17:30; Sa 08:00-12:00",
+        "shop": "paint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6440443,
+          46.7792988
+        ]
+      },
+      "id": "node/4543329511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559744760",
+        "name": "Carrosserie Indulsi frères",
+        "shop": "car_repair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6495149,
+          46.7798828
+        ]
+      },
+      "id": "node/4559744760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4573305890",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "13",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Atelier d'horlogerie 13",
+        "opening_hours": "Tu-Fr 09:00-12:00, 13:30-18:00; Sa 09:00-12:00, 13:30-16:00",
+        "shop": "jewelry",
+        "website": "https://www.atelier-h13.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6397564,
+          46.7787231
+        ]
+      },
+      "id": "node/4573305890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598123940",
+        "name": "Shopping du Château",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.642139,
+          46.7784118
+        ]
+      },
+      "id": "node/4598123940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598157342",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "38",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Boiziau Opticien",
+        "opening_hours": "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-12:30,13:30-17:00",
+        "operator": "Boiziau Opticien Sàrl",
+        "phone": "+41 24 426 43 58",
+        "shop": "optician",
+        "website": "http://boiziauopticien.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.638016,
+          46.7792086
+        ]
+      },
+      "id": "node/4598157342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598157344",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "38",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Teinture d’iode",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 10:00-17:00",
+        "phone": "+41 24 425 57 91",
+        "shop": "clothes",
+        "website": "http://www.teinturediode.ch/?page_id=53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6382538,
+          46.7791403
+        ]
+      },
+      "id": "node/4598157344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598193323",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "29",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Songes",
+        "opening_hours": "Tu-Fr 09:30-18:30; Sa 10:00-17:00",
+        "phone": "+41 24 420 29 69",
+        "shop": "furniture",
+        "website": "http://www.songes.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6390934,
+          46.7788398
+        ]
+      },
+      "id": "node/4598193323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601445015",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "37",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Au Khédive",
+        "opening_hours": "Mo 08:00-12:15,14:00-18:30; Tu-Fr 07:30-12:15,14:00-18:30; Sa 07:30-17:00",
+        "phone": "+41 24 425 37 17",
+        "shop": "kiosk",
+        "website": "https://www.facebook.com/aukhedive1400/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.638729,
+          46.7789202
+        ]
+      },
+      "id": "node/4601445015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601446731",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6367068,
+          46.780941
+        ]
+      },
+      "id": "node/4601446731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4613986255",
+        "name": "Polli",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6424292,
+          46.7782286
+        ]
+      },
+      "id": "node/4613986255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832090095",
+        "name": "Vanity",
+        "opening_hours": "Mo-Fr 08:30-19:30; Sa 09:00-17:00",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6416562,
+          46.7791393
+        ]
+      },
+      "id": "node/4832090095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832109914",
+        "name": "Alain Afflelou",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6381408,
+          46.7803333
+        ]
+      },
+      "id": "node/4832109914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832110527",
+        "name": "Changer d'Hair",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6383331,
+          46.7804482
+        ]
+      },
+      "id": "node/4832110527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832118219",
+        "name": "Vierino Lauria",
+        "opening_hours": "Mo-Fr 06:30-18:30; Sa 07:00-13:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6402993,
+          46.7797145
+        ]
+      },
+      "id": "node/4832118219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832121840",
+        "name": "Payot",
+        "opening_hours": "Mo 10:00-18:30; Tu-Fr 09:00-18:30; Sa 08:30-18:00",
+        "shop": "books",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6418144,
+          46.7789569
+        ]
+      },
+      "id": "node/4832121840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832124836",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "10",
+        "addr:postcode": "1400",
+        "addr:street": "Place Pestalozzi",
+        "craft": "optician",
+        "email": "yverdon@visilab.ch",
+        "name": "Visilab",
+        "opening_hours": "Mo 09:00-18:30; Tu-Fr 08:00-18:30; Sa 08:00-17:00",
+        "operator": "Visilab",
+        "phone": "+41 24 426 22 20",
+        "shop": "optician",
+        "website": "https://www.visilab.ch/fr/opticien-visilab/visilab-yverdon/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6414515,
+          46.7787442
+        ]
+      },
+      "id": "node/4832124836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832131512",
+        "name": "Tui",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:30-18:00; Sa 09:00-12:00",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6406645,
+          46.7789518
+        ]
+      },
+      "id": "node/4832131512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832132821",
+        "name": "Metro Boutique",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 08:30-18:00",
+        "shop": "clothes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6405016,
+          46.7790222
+        ]
+      },
+      "id": "node/4832132821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832133148",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "4",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Lac",
+        "name": "iKlinik",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "mobile_phone",
+        "website": "https://www.iklinik.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6404311,
+          46.7790554
+        ]
+      },
+      "id": "node/4832133148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832134420",
+        "name": "Clic Clac Photo",
+        "opening_hours": "Tu-Sa 10:00-12:15, Tu,We,Fr 14:15-18:30, Sa 14:15-17:00",
+        "shop": "photo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640213,
+          46.7791625
+        ]
+      },
+      "id": "node/4832134420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832136936",
+        "name": "Marionnaud",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6398964,
+          46.7793207
+        ]
+      },
+      "id": "node/4832136936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832138605",
+        "name": "Kuoni",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:00-18:00; Sa 09:00-12:00",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6398151,
+          46.7793703
+        ]
+      },
+      "id": "node/4832138605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832138606",
+        "name": "Coiffure Vision",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6396607,
+          46.7794583
+        ]
+      },
+      "id": "node/4832138606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832139662",
+        "name": "Bijoux Bijoux",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6396174,
+          46.779467
+        ]
+      },
+      "id": "node/4832139662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832140105",
+        "name": "Neuroth",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:00-17:30",
+        "shop": "hearing_aids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6393914,
+          46.7795859
+        ]
+      },
+      "id": "node/4832140105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832140253",
+        "name": "Mobilezone",
+        "opening_hours": "Mo-Th 09:00-18:30; Fr 09:00-19:30; Sa 09:00-17:00",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6395041,
+          46.77953
+        ]
+      },
+      "id": "node/4832140253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832140832",
+        "name": "Tally Weijl",
+        "opening_hours": "Mo-Th 09:00-18:30; Fr 09:00-19:30; Sa 09:00-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6395587,
+          46.7794999
+        ]
+      },
+      "id": "node/4832140832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832142096",
+        "name": "Vero Moda",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6391333,
+          46.7797294
+        ]
+      },
+      "id": "node/4832142096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832146587",
+        "name": "Calida",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6382204,
+          46.7802572
+        ]
+      },
+      "id": "node/4832146587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832147153",
+        "name": "Xél'Or",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6383169,
+          46.7800667
+        ]
+      },
+      "id": "node/4832147153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832148152",
+        "name": "Carnaby",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6384003,
+          46.7801648
+        ]
+      },
+      "id": "node/4832148152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832149174",
+        "name": "Kiosque",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6384834,
+          46.7799758
+        ]
+      },
+      "id": "node/4832149174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832150095",
+        "name": "La mode à tes pieds",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6385339,
+          46.7799453
+        ]
+      },
+      "id": "node/4832150095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832150724",
+        "name": "Sunrise",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6388369,
+          46.7797606
+        ]
+      },
+      "id": "node/4832150724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832152427",
+        "name": "Claire's",
+        "shop": "jewelry",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6388683,
+          46.77974
+        ]
+      },
+      "id": "node/4832152427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4834274216",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6541135,
+          46.7845318
+        ]
+      },
+      "id": "node/4834274216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838271278",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "21",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "name": "Rukan Coiffure",
+        "opening_hours": "Mo 13:30-18:30, Tu-Fr 08:30-18:30, Sa 08:00-17:00",
+        "phone": "+41 24 426 14 95",
+        "shop": "hairdresser",
+        "website": "https://www.facebook.com/rukancoiffure/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6432127,
+          46.7777397
+        ]
+      },
+      "id": "node/4838271278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4841540896",
+        "name": "Chez My Marché Asiatique",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6432758,
+          46.7777191
+        ]
+      },
+      "id": "node/4841540896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881629822",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "La Grotte",
+        "opening_hours": "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00",
+        "phone": "+41 24 426 12 79",
+        "shop": "sports",
+        "website": "https://www.lagrotte.biz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6395902,
+          46.7787458
+        ]
+      },
+      "id": "node/4881629822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881629823",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "27",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Croco les styles",
+        "phone": "+41 24 425 43 43",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6391761,
+          46.7788211
+        ]
+      },
+      "id": "node/4881629823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881629824",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "24 bis",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Belle allure",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00",
+        "phone": "+41 24 425 55 52",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6390787,
+          46.7789722
+        ]
+      },
+      "id": "node/4881629824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881632323",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "brand": "Ateapic",
+        "brand:wikidata": "Q104468904",
+        "name": "Ateapic",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "operator": "Démarche",
+        "operator:wikidata": "Q104469034",
+        "phone": "+41 24 420 32 28",
+        "second_hand": "only",
+        "shop": "clothes",
+        "website": "https://ateapic.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6397861,
+          46.7788357
+        ]
+      },
+      "id": "node/4881632323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881632329",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "32",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Multiservice Auditorium-hifi",
+        "opening_hours": "Tu-Fr 09:00-12:00, 14:00-18:30; Sa 10:00-17:00",
+        "operator": "Audio-visuel Sàrl",
+        "phone": "+41 21 701 55 75",
+        "shop": "hifi",
+        "website": "http://www.multiservice.ch/auditorium.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6386207,
+          46.7790611
+        ]
+      },
+      "id": "node/4881632329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881632331",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "29",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "L'Espace Chocolat",
+        "opening_hours": "Mo 14:00-18:00; Tu-Fr 09:30-12:00,13:30-18:30; Sa 09:00-17:00",
+        "operator": "Moret Christophe et Sonja",
+        "phone": "+41 24 425 07 05",
+        "shop": "bakery",
+        "website": "https://www.espace-chocolat.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6381567,
+          46.7789829
+        ]
+      },
+      "id": "node/4881632331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881632332",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "29",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "brand": "Ateapic",
+        "brand:wikidata": "Q104468904",
+        "name": "Ateapic",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "operator": "Démarche",
+        "operator:wikidata": "Q104469034",
+        "phone": "+41 24 420 29 21",
+        "second_hand": "only",
+        "shop": "clothes",
+        "website": "https://ateapic.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6381961,
+          46.7789127
+        ]
+      },
+      "id": "node/4881632332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881646327",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "30",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Gentlemen's Barber Club",
+        "opening_hours": "Mo 13:00-17:00; Tu-Fr 08:30-18:30; Sa 08:00-17:00",
+        "phone": "+41 24 534 26 02",
+        "shop": "hairdresser",
+        "website": "http://www.gentlemens-barber.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6387231,
+          46.7787384
+        ]
+      },
+      "id": "node/4881646327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881650621",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "25",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "beauty": "spa,_massage,_skin_care,_eyebrow",
+        "name": "Tiffany's Centre de beauté",
+        "phone": "+41 24 425 05 00",
+        "shop": "beauty",
+        "website": "https://www.institut-tiffanys.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6389939,
+          46.7789921
+        ]
+      },
+      "id": "node/4881650621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881650627",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "30",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "beauty": "nails,_tanning,_massage",
+        "name": "Plénitude",
+        "phone": "+41 24 425 65 67",
+        "shop": "beauty",
+        "website": "http://www.plenitude-institut.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63885,
+          46.7786874
+        ]
+      },
+      "id": "node/4881650627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881650628",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "23 bis",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Furioux Audition",
+        "opening_hours": "Mo-Th 09:00-12:00,13:30-17:30; Fr 09:00-12:30",
+        "phone": "+41 24 426 15 15",
+        "shop": "hearing_aids",
+        "website": "https://www.furioux-audition.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6387879,
+          46.7785411
+        ]
+      },
+      "id": "node/4881650628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881650633",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "18",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Roka Concepts",
+        "shop": "gift",
+        "website": "https://www.rokaconcepts.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6395128,
+          46.778586
+        ]
+      },
+      "id": "node/4881650633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881650634",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "13",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Espace Coiffure",
+        "phone": "+41 24 426 09 12",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6396456,
+          46.7784627
+        ]
+      },
+      "id": "node/4881650634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881659823",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "15",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Gerber Wyss Boulangerie-Chocolaterie",
+        "opening_hours": "Tu-Fr 06:30-18:00; Sa 07:00-16:00; Su 07:00-12:00",
+        "phone": "+41 24 426 08 08",
+        "shop": "bakery",
+        "start_date": "01.08.2017",
+        "website": "https://www.boulangeriegerberwyss.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6395551,
+          46.7784751
+        ]
+      },
+      "id": "node/4881659823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881659827",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "Filigrane Bouquiniste",
+        "opening_hours": "We-Fr 14:00-18:00; Sa 10:00-16:00",
+        "shop": "books",
+        "website": "https://bouquinisteyverdon.wordpress.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6400022,
+          46.7784381
+        ]
+      },
+      "id": "node/4881659827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881665022",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "15",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "clothes": "underwear",
+        "name": "Au Bon Temps",
+        "opening_hours": "Tu-Fr 09:30-18:00; Sa 09:30-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6397002,
+          46.7787312
+        ]
+      },
+      "id": "node/4881665022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881667121",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "12",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "name": "High Creek Premium Vapor",
+        "opening_hours": "Tu-Fr 10:00-18:30; Sa 10:00-17:00",
+        "shop": "e-cigarette",
+        "website": "http://www.high-creek.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6396918,
+          46.778556
+        ]
+      },
+      "id": "node/4881667121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881676829",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Coiffure Patricia",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6403062,
+          46.7789821
+        ]
+      },
+      "id": "node/4881676829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881676830",
+        "name": "Au Robinson",
+        "name:fr": "Au Robinson",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 09:00-12:30,13:30-18:30; Sa 09:00-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640239,
+          46.7790283
+        ]
+      },
+      "id": "node/4881676830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881678422",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Lac",
+        "name": "Diététique Santé",
+        "opening_hours": "Mo 14:00-18:00; Tu-Fr 08:30-12:00,14:00-18:30; Sa 08:30-12:00,14:00-17:00",
+        "operator": "Droguerie Hofer",
+        "shop": "convenience",
+        "website": "https://www.droguerie-hofer.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6403865,
+          46.7789526
+        ]
+      },
+      "id": "node/4881678422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881678526",
+        "name": "Gillet joaillerie créateurs",
+        "name:fr": "Gillet joaillerie créateurs",
+        "opening_hours": "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:00-16:00",
+        "shop": "jewelry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6409364,
+          46.7788155
+        ]
+      },
+      "id": "node/4881678526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881678682",
+        "name": "2LB",
+        "name:fr": "2LB",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6387225,
+          46.7795828
+        ]
+      },
+      "id": "node/4881678682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683691",
+        "brand": "Sisley",
+        "brand:wikidata": "Q12054325",
+        "brand:wikipedia": "cs:Sisley",
+        "name": "Sisley",
+        "name:fr": "Sisley",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6396902,
+          46.779431
+        ]
+      },
+      "id": "node/4881683691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683692",
+        "name": "L'espace mode",
+        "opening_hours": "Mo 13:30-18:30; Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00",
+        "operator": "Daniel Marendaz",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6394401,
+          46.7794096
+        ]
+      },
+      "id": "node/4881683692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683693",
+        "clothes": "babies",
+        "name": "Eleonor Baby",
+        "name:fr": "Eleonor Baby",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6385739,
+          46.7794584
+        ]
+      },
+      "id": "node/4881683693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683743",
+        "name": "Berdoz Optic",
+        "name:fr": "Berdoz Optic",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 08:30-17:00",
+        "shop": "optician"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6399941,
+          46.7791322
+        ]
+      },
+      "id": "node/4881683743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683744",
+        "clothes": "underwear",
+        "name": "Intimissimi",
+        "name:fr": "Intimissimi",
+        "opening_hours": "Mo-Sa 10:00-13:00, 13:30-18:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.639919,
+          46.7791658
+        ]
+      },
+      "id": "node/4881683744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683745",
+        "name": "Boutique Carina",
+        "name:fr": "Boutique Carina",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6397512,
+          46.7794027
+        ]
+      },
+      "id": "node/4881683745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683748",
+        "name": "Image+",
+        "name:fr": "Image+",
+        "opening_hours": "Mo-Fr 09:30-18:30; Sa 09:00-18:00",
+        "shop": "gift",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6384852,
+          46.7793435
+        ]
+      },
+      "id": "node/4881683748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881683749",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "11",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Pré",
+        "clothes": "underwear",
+        "name": "Boutique Marilou",
+        "opening_hours": "Mo 14:00-18:30; Tu-Fr 09:30-12:00,14:00-18:30; Sa 09:00-17:00",
+        "phone": "+41 24 426 36 28",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6385688,
+          46.7792636
+        ]
+      },
+      "id": "node/4881683749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881685426",
+        "name": "United Color of Benetton",
+        "name:fr": "United Color of Benetton",
+        "opening_hours": "Mo-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6401508,
+          46.7790685
+        ]
+      },
+      "id": "node/4881685426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881685427",
+        "name": "Esprit",
+        "name:fr": "Esprit",
+        "opening_hours": "Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-12:30,13:30-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6398616,
+          46.7792039
+        ]
+      },
+      "id": "node/4881685427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881685429",
+        "name": "Promod",
+        "name:fr": "Promod",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-18:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6397328,
+          46.7792697
+        ]
+      },
+      "id": "node/4881685429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881685430",
+        "name": "Boucherie Robellaz",
+        "name:fr": "Boucherie Robellaz",
+        "opening_hours": "Tu-Fr 07:30-12:15,14:00-18:30; Sa 07:00-16:00",
+        "shop": "butcher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6396418,
+          46.7793086
+        ]
+      },
+      "id": "node/4881685430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881685431",
+        "name": "Katika",
+        "name:fr": "Katika",
+        "opening_hours": "Tu-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.638416,
+          46.7791973
+        ]
+      },
+      "id": "node/4881685431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881685924",
+        "name": "Mauri",
+        "opening_hours": "Mo 09:00-12:00,13:30-18:30; Tu-Fr 08:30-12:00,13:30-18:30; Sa 08:30-17:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6395215,
+          46.7793675
+        ]
+      },
+      "id": "node/4881685924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881689722",
+        "name": "Morgan",
+        "opening_hours": "Mo,Tu 09:00-11:30,12:00-18:30; We-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6391867,
+          46.7795539
+        ]
+      },
+      "id": "node/4881689722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881689724",
+        "name": "Couture-retouches",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6378017,
+          46.7791348
+        ]
+      },
+      "id": "node/4881689724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881691525",
+        "name": "Jean-Louis & Novabus",
+        "name:fr": "Jean-Louis & Novabus",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.637951,
+          46.779584
+        ]
+      },
+      "id": "node/4881691525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881691526",
+        "name": "L'Etre Bleu",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6380563,
+          46.7793361
+        ]
+      },
+      "id": "node/4881691526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881691527",
+        "name": "Afro Studio - Chez Peguy",
+        "name:fr": "Afro Studio - Chez Peguy",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6378949,
+          46.779291
+        ]
+      },
+      "id": "node/4881691527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881696522",
+        "name": "Chrys",
+        "name:fr": "Chrys",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6377086,
+          46.7791257
+        ]
+      },
+      "id": "node/4881696522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881696523",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "44",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "Secrets pour pl'hair",
+        "phone": "+41 24 426 07 57",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6375438,
+          46.7792745
+        ]
+      },
+      "id": "node/4881696523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881696524",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Moulins",
+        "amenity": "fast_food",
+        "name": "Saveurs d'Italie",
+        "opening_hours": "Mo-Fr 06:30-22:00; Sa 06:30-17:30",
+        "phone": "+41 24 425 36 70",
+        "shop": "convenience",
+        "takeaway": "yes",
+        "website": "https://www.saveurs-d-italie.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6374649,
+          46.7791358
+        ]
+      },
+      "id": "node/4881696524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881697122",
+        "name": "Boys",
+        "name:fr": "Boys",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6378356,
+          46.7801312
+        ]
+      },
+      "id": "node/4881697122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881697123",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "11",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Collège",
+        "name": "L'Esprit Libre",
+        "opening_hours": "Tu-Fr 09:30-18:30; Sa 09:00-17:00",
+        "organic": "only",
+        "phone": "+41 24 425 05 88",
+        "shop": "convenience",
+        "website": "http://www.lespritlibre.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6380845,
+          46.7793876
+        ]
+      },
+      "id": "node/4881697123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881701023",
+        "name": "Nano Kabayah",
+        "name:fr": "Nano Kabayah",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6382104,
+          46.779931
+        ]
+      },
+      "id": "node/4881701023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881704721",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "13",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Collège",
+        "name": "A Deux Coiffure",
+        "opening_hours": "Tu-Th 08:00-12:00,13:30-18:30; Fr 08:00-19:00; Sa 08:00-14:30",
+        "phone": "+41 24 425 01 95",
+        "shop": "hairdresser",
+        "website": "http://www.a-deux-beaute.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6380332,
+          46.7792869
+        ]
+      },
+      "id": "node/4881704721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882098421",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "email": "info@thomanimation.ch",
+        "fixme": "Is this really a whine shop?",
+        "name": "Thom Animation",
+        "name:de": "Thom Animation",
+        "name:en": "Thom Animation",
+        "name:fr": "Thom Animation",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-17:00",
+        "phone": "+41 76 368 21 91",
+        "shop": "wine",
+        "website": "http://thomanimation.e-monsite.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6364352,
+          46.7812542
+        ]
+      },
+      "id": "node/4882098421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907014997",
+        "name": "Péchés et gourmandises",
+        "opening_hours": "Mo-Fr 09:30-18:30; Sa 09:00-17:00",
+        "shop": "bakery",
+        "website": "https://www.pechesgourmandise.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6403033,
+          46.7791134
+        ]
+      },
+      "id": "node/4907014997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4923763461",
+        "name": "Zwyssig Outlet",
+        "shop": "bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6379103,
+          46.7791235
+        ]
+      },
+      "id": "node/4923763461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4939637461",
+        "level": "0",
+        "name": "K Kiosk",
+        "opening_hours": "Mo-Fr 05:30-20:00; Sa 06:00-19:00; Su 07:00-20:00",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6407533,
+          46.7815355
+        ]
+      },
+      "id": "node/4939637461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4962243091",
+        "addr:housenumber": "15",
+        "addr:street": "Rue de la Maison-Rouge",
+        "name": "Manjola",
+        "phone": "+41 24 425 02 11",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6427811,
+          46.7788135
+        ]
+      },
+      "id": "node/4962243091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4962396203",
+        "addr:housenumber": "48",
+        "addr:street": "Avenue des Sports",
+        "clothes": "second_hand",
+        "name": "EFY (Entraide Familiale Yverdonnoise)",
+        "opening_hours": "Mo,Th 19:00-21:30; Tu,We 13:30-16:30",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6542524,
+          46.7794122
+        ]
+      },
+      "id": "node/4962396203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4988568624",
+        "cuisine": "turkish",
+        "name": "Ecoma Kiosque - alimentation turque",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6352451,
+          46.7826792
+        ]
+      },
+      "id": "node/4988568624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5034465567",
+        "name": "Dipl. Ing. Fust SA",
+        "shop": "bathroom_furnishing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64249,
+          46.7781039
+        ]
+      },
+      "id": "node/5034465567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5034465568",
+        "name": "Dipl. Ing. Fust SA",
+        "opening_hours": "Mo-Fr 08:30-12:00,13:30-18:30; Sa 08:30-12:00,13:30-17:00",
+        "shop": "appliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6427223,
+          46.7779647
+        ]
+      },
+      "id": "node/5034465568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202473895",
+        "name": "Bacha Coiffure",
+        "shop": "hairdresser",
+        "website": "https://bacha-coiffure.business.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6481484,
+          46.7778224
+        ]
+      },
+      "id": "node/5202473895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202495969",
+        "name": "Aux Délices de la Plaine",
+        "shop": "bakery",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6437019,
+          46.7775647
+        ]
+      },
+      "id": "node/5202495969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202502452",
+        "name": "Perle de l'Océan",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6436488,
+          46.7775808
+        ]
+      },
+      "id": "node/5202502452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5279481932",
+        "name": "Body Looking",
+        "shop": "tattoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6477677,
+          46.7789929
+        ]
+      },
+      "id": "node/5279481932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634233835",
+        "clothes": "men",
+        "name": "Zanotta Mode",
+        "opening_hours": "Mo-Th 09:00-12:00,13:00-18:30; Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6401296,
+          46.7786587
+        ]
+      },
+      "id": "node/5634233835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458387",
+        "name": "Sollberger",
+        "shop": "florist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.635877,
+          46.7820471
+        ]
+      },
+      "id": "node/5739458387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458390",
+        "name": "Privilège",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00",
+        "shop": "perfumery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6359943,
+          46.7810176
+        ]
+      },
+      "id": "node/5739458390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458393",
+        "cash_withdrawal": "migros_bank;postfinance_card",
+        "cash_withdrawal:fee": "no",
+        "cash_withdrawal:purchase_required": "no",
+        "cash_withdrawal:type": "checkout",
+        "name": "Denner",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6355947,
+          46.7813684
+        ]
+      },
+      "id": "node/5739458393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458395",
+        "name": "Naville",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6355947,
+          46.7811958
+        ]
+      },
+      "id": "node/5739458395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458396",
+        "name": "My Shoes",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6356483,
+          46.781126
+        ]
+      },
+      "id": "node/5739458396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458399",
+        "name": "Hotelplan",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00",
+        "shop": "travel_agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6358334,
+          46.7812821
+        ]
+      },
+      "id": "node/5739458399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458400",
+        "brand": "5àsec",
+        "brand:wikidata": "Q2817899",
+        "brand:wikipedia": "fr:5àsec",
+        "name": "5àsec",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00",
+        "shop": "dry_cleaning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6359326,
+          46.7812454
+        ]
+      },
+      "id": "node/5739458400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6305100183",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "8",
+        "addr:postcode": "1400",
+        "addr:street": "Place Pestalozzi",
+        "name": "Barbershop",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "phone": "+41 24 555 36 56",
+        "shop": "hairdresser",
+        "website": "https://the-barbershop.ch/yverdon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6412445,
+          46.7787603
+        ]
+      },
+      "id": "node/6305100183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6306466406",
+        "brand": "La Halle aux Chaussures",
+        "brand:wikidata": "Q62390731",
+        "name": "La Halle",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 08:30-18:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.639635,
+          46.7800615
+        ]
+      },
+      "id": "node/6306466406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6306466407",
+        "name": "La Halle",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 08:30-18:00",
+        "shop": "clothes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6392393,
+          46.779674
+        ]
+      },
+      "id": "node/6306466407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6306466408",
+        "name": "Fleur de pain",
+        "shop": "bakery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6384334,
+          46.7800064
+        ]
+      },
+      "id": "node/6306466408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6354587508",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "name": "Salt",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00",
+        "shop": "mobile_phone",
+        "website": "https://www.salt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6360609,
+          46.7811528
+        ]
+      },
+      "id": "node/6354587508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6376083715",
+        "addr:housenumber": "16",
+        "addr:street": "Route de Neuchâtel",
+        "email": "info@laligue-thegameshop.ch",
+        "name": "La Ligue",
+        "opening_hours": "We-Fr 10:00-18:30; Sa 09:30-12:00, 13:00-18:00",
+        "phone": "+41 76 802 45 77",
+        "shop": "games",
+        "website": "http://laligue-thegameshop.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6362929,
+          46.7814863
+        ]
+      },
+      "id": "node/6376083715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6457813895",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:housenumber": "20",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "description": "Métro, Brico, Dodo est une boutique et un espace de création à Yverdon-les-Bains pour toutes et tous où le bricolage - soit le DIY (Do It Yourself) - ne connaît pas de limites sociales, d’âges ou culturelles.",
+        "email": "info@metrobricododo.com",
+        "name": "Metro Brico Dodo",
+        "opening_hours": "We-Fr 10:00-18:30; Sa 10:00-17:00",
+        "operator": "Fanny Sancha",
+        "phone": "+41 78 402 75 31",
+        "shop": "gift",
+        "start_date": "2019-05-08",
+        "website": "https://metrobricododo.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6393508,
+          46.7786087
+        ]
+      },
+      "id": "node/6457813895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6520997842",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1400",
+        "addr:street": "Place Pestalozzi",
+        "bulk_purchase": "only",
+        "email": "vracyverdon@gmail.com",
+        "name": "L'Epicerie Vrac",
+        "opening_hours": "Mo-Fr 09:30-18:30; Sa 09:00-17:00",
+        "phone": "+41 24 426 07 16",
+        "shop": "convenience",
+        "website": "https://www.epicerievrac.ch/",
+        "wheelchair": "yes",
+        "zero_waste": "only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6404961,
+          46.7785528
+        ]
+      },
+      "id": "node/6520997842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6569800257",
+        "name": "Boucherie Calvano",
+        "shop": "butcher",
+        "website": "https://boucheriecalvano.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6450609,
+          46.7775074
+        ]
+      },
+      "id": "node/6569800257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6765952295",
+        "addr:housenumber": "1",
+        "addr:street": "Rue de Neuchâtel",
+        "name": "P'tit Frais",
+        "opening_hours": "Mo-Fr 07:00-18:30; Sa 07:00-18:00",
+        "phone": "+41 24 426 07 92",
+        "shop": "supermarket",
+        "website": "https://ptitfrais.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6361602,
+          46.7806355
+        ]
+      },
+      "id": "node/6765952295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6931051398",
+        "name": "Alimentation de Paula",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6468821,
+          46.7790044
+        ]
+      },
+      "id": "node/6931051398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017390683",
+        "name": "Chevalley et fils",
+        "shop": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6495093,
+          46.7788655
+        ]
+      },
+      "id": "node/7017390683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017398155",
+        "name": "Orphée",
+        "shop": "beauty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6471291,
+          46.7789432
+        ]
+      },
+      "id": "node/7017398155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017406062",
+        "name": "Castella Immobilier",
+        "shop": "estate_agent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6437466,
+          46.7793591
+        ]
+      },
+      "id": "node/7017406062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017416322",
+        "name": "Angel's Coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6469563,
+          46.778988
+        ]
+      },
+      "id": "node/7017416322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090992173",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6358149,
+          46.7808454
+        ]
+      },
+      "id": "node/7090992173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7354267902",
+        "name": "Ochsner sport",
+        "shop": "sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6379645,
+          46.7802011
+        ]
+      },
+      "id": "node/7354267902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7602322622",
+        "name": "Jaccard SA",
+        "shop": "stationery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6388328,
+          46.7788928
+        ]
+      },
+      "id": "node/7602322622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7793879860",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "19a",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Moulins",
+        "email": "info@cycleone.ch",
+        "name": "Cycle one",
+        "opening_hours": "Tu-Fr 09:00-12:00, 14:00-18:30; Sa 09:00-17:00",
+        "phone": "+41 24 420 31 23",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle",
+        "website": "https://www.cycleone.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6365305,
+          46.7782055
+        ]
+      },
+      "id": "node/7793879860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8039265221",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "6",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "name": "SriLankan Indan Take Away",
+        "phone": "+41 24 426 08 55",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640007,
+          46.7787901
+        ]
+      },
+      "id": "node/8039265221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8074902239",
+        "name": "Ali Baba",
+        "name:fr": "Ali Baba",
+        "opening_hours": "Mo-Fr 09:00-12:00, 13:30-18:30; Sa 09:00-17:00",
+        "shop": "shoes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6403866,
+          46.7790745
+        ]
+      },
+      "id": "node/8074902239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8245875109",
+        "addr:housenumber": "19",
+        "addr:street": "Rue de la Plaine",
+        "name": "Mangiabene",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "phone": "+41797291919",
+        "shop": "deli",
+        "website": "https://www.mangiabene-epicerie.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6431364,
+          46.7777732
+        ]
+      },
+      "id": "node/8245875109"
+    }
+  ]
+}

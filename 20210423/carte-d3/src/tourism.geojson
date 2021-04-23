@@ -1,0 +1,849 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T10:44:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79739527",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6433049,
+              46.7864241
+            ],
+            [
+              6.6432367,
+              46.7863519
+            ],
+            [
+              6.6444104,
+              46.7858286
+            ],
+            [
+              6.6444787,
+              46.7859008
+            ],
+            [
+              6.6433049,
+              46.7864241
+            ]
+          ]
+        ]
+      },
+      "id": "way/79739527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79904574",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "1400",
+        "addr:street": "Place Pestalozzi",
+        "building": "commercial",
+        "building:levels": "3",
+        "fee": "yes",
+        "name": "Maison d'Ailleurs",
+        "opening_hours": "Tu-Su 11:00-18:00",
+        "phone": "+41 24 425 64 38",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "http://www.ailleurs.ch/",
+        "wheelchair": "yes",
+        "wikidata": "Q27489975"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6420277,
+              46.7788022
+            ],
+            [
+              6.6419482,
+              46.7786957
+            ],
+            [
+              6.6418662,
+              46.7785859
+            ],
+            [
+              6.6419152,
+              46.7785691
+            ],
+            [
+              6.6419729,
+              46.7785494
+            ],
+            [
+              6.6421348,
+              46.7787655
+            ],
+            [
+              6.6420277,
+              46.7788022
+            ]
+          ]
+        ]
+      },
+      "id": "way/79904574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/81821536",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "1400",
+        "addr:street": "Avenue Haldimand",
+        "building": "hotel",
+        "email": "info@hotelyverdon.ch",
+        "fax": "+41 24 424 60 01",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hôtel du Théâtre",
+        "phone": "+41 24 424 60 00",
+        "smoking": "no",
+        "source": "website",
+        "stars": "3",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "http://www.hotelyverdon.ch",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6434787,
+              46.7797369
+            ],
+            [
+              6.643629,
+              46.77968
+            ],
+            [
+              6.6437207,
+              46.7797997
+            ],
+            [
+              6.6435604,
+              46.7798517
+            ],
+            [
+              6.6434787,
+              46.7797369
+            ]
+          ]
+        ]
+      },
+      "id": "way/81821536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158851980",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Parc",
+        "building": "hotel",
+        "name": "Gîte du Passant",
+        "source": "Orthophoto Yverdon 2012 / R-Pod @ HEIG-VD",
+        "tourism": "hostel",
+        "website": "http://www.gite-du-passant.ch/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6395641,
+              46.7875647
+            ],
+            [
+              6.6395338,
+              46.7875899
+            ],
+            [
+              6.6395714,
+              46.7876111
+            ],
+            [
+              6.6394999,
+              46.7876705
+            ],
+            [
+              6.6393127,
+              46.7875647
+            ],
+            [
+              6.6393868,
+              46.7875033
+            ],
+            [
+              6.6394717,
+              46.7875513
+            ],
+            [
+              6.639498,
+              46.7875295
+            ],
+            [
+              6.6394767,
+              46.7875175
+            ],
+            [
+              6.6395001,
+              46.7874981
+            ],
+            [
+              6.6394469,
+              46.787468
+            ],
+            [
+              6.6395038,
+              46.7874208
+            ],
+            [
+              6.6396076,
+              46.7874794
+            ],
+            [
+              6.6396404,
+              46.7874522
+            ],
+            [
+              6.6397224,
+              46.7874985
+            ],
+            [
+              6.6396553,
+              46.7875542
+            ],
+            [
+              6.6396842,
+              46.7875706
+            ],
+            [
+              6.6396618,
+              46.7875891
+            ],
+            [
+              6.6396324,
+              46.7875725
+            ],
+            [
+              6.6396102,
+              46.7875908
+            ],
+            [
+              6.6395641,
+              46.7875647
+            ]
+          ]
+        ]
+      },
+      "id": "way/158851980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/292962974",
+        "covered": "yes",
+        "fireplace": "no",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6648053,
+              46.7835281
+            ],
+            [
+              6.6647769,
+              46.7835054
+            ],
+            [
+              6.664731,
+              46.7834751
+            ],
+            [
+              6.6647279,
+              46.7834394
+            ],
+            [
+              6.66475,
+              46.7834254
+            ],
+            [
+              6.6647879,
+              46.7834394
+            ],
+            [
+              6.664822,
+              46.7834324
+            ],
+            [
+              6.6648555,
+              46.7834577
+            ],
+            [
+              6.6648488,
+              46.7834753
+            ],
+            [
+              6.6648695,
+              46.7834886
+            ],
+            [
+              6.6648974,
+              46.7834944
+            ],
+            [
+              6.6649326,
+              46.7835135
+            ],
+            [
+              6.6649114,
+              46.7835365
+            ],
+            [
+              6.6648672,
+              46.7835101
+            ],
+            [
+              6.6648399,
+              46.7835066
+            ],
+            [
+              6.6648053,
+              46.7835281
+            ]
+          ]
+        ]
+      },
+      "id": "way/292962974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321739469",
+        "email": "camping.yverdon@bluewin.ch",
+        "fax": "+41 (0) 24 425 76 31",
+        "internet_access": "wlan",
+        "name": "Camping Yverdon Plage",
+        "phone": "+41 (0) 24 425 10 89",
+        "stars": "3",
+        "tourism": "camp_site",
+        "website": "https://www.camping-yverdon.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6502449,
+              46.7837561
+            ],
+            [
+              6.6503505,
+              46.783899
+            ],
+            [
+              6.6506354,
+              46.7840733
+            ],
+            [
+              6.6508231,
+              46.7840837
+            ],
+            [
+              6.6510565,
+              46.7840411
+            ],
+            [
+              6.6509848,
+              46.7843015
+            ],
+            [
+              6.6509737,
+              46.7848024
+            ],
+            [
+              6.6510034,
+              46.7850706
+            ],
+            [
+              6.6510782,
+              46.7851231
+            ],
+            [
+              6.651278,
+              46.7859202
+            ],
+            [
+              6.6510898,
+              46.7860264
+            ],
+            [
+              6.6508373,
+              46.7860766
+            ],
+            [
+              6.6502674,
+              46.7860823
+            ],
+            [
+              6.6494729,
+              46.7860071
+            ],
+            [
+              6.6493736,
+              46.786
+            ],
+            [
+              6.6492647,
+              46.7860118
+            ],
+            [
+              6.6491335,
+              46.7860648
+            ],
+            [
+              6.6490547,
+              46.7861224
+            ],
+            [
+              6.6490265,
+              46.7861326
+            ],
+            [
+              6.6489886,
+              46.7861391
+            ],
+            [
+              6.6489187,
+              46.7861266
+            ],
+            [
+              6.6488983,
+              46.7861113
+            ],
+            [
+              6.6488963,
+              46.7860824
+            ],
+            [
+              6.6488876,
+              46.7858655
+            ],
+            [
+              6.6488893,
+              46.7856457
+            ],
+            [
+              6.6487376,
+              46.7854674
+            ],
+            [
+              6.6484381,
+              46.7851306
+            ],
+            [
+              6.6484591,
+              46.7850289
+            ],
+            [
+              6.6485552,
+              46.7848643
+            ],
+            [
+              6.64856,
+              46.7848229
+            ],
+            [
+              6.6485322,
+              46.7847565
+            ],
+            [
+              6.6484679,
+              46.7846452
+            ],
+            [
+              6.6483902,
+              46.7845857
+            ],
+            [
+              6.6502449,
+              46.7837561
+            ]
+          ]
+        ]
+      },
+      "id": "way/321739469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/922648000",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "addr:street": "Château d'Yverdon",
+        "fee": "yes",
+        "name": "Musée d'Yverdon et région",
+        "opening_hours": "Oct 01-Mai 01 13:00-17:00; Jun 01-Sep 01 11:00-17:00",
+        "phone": "+41 24 425 93 10",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "website": "http://www.musee-yverdon-region.ch/",
+        "wheelchair": "limited",
+        "wikidata": "Q3329547"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6415563,
+          46.778378
+        ]
+      },
+      "id": "node/922648000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1177119963",
+        "artist_name": "Denis Perret-Gentil",
+        "artwork_type": "sculpture",
+        "name": "Voyage Immobile",
+        "tourism": "artwork",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6476102,
+          46.7859185
+        ]
+      },
+      "id": "node/1177119963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1228361421",
+        "ele": "435",
+        "information": "guidepost",
+        "name": "Yverdon-les-Bains",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6402776,
+          46.781002
+        ]
+      },
+      "id": "node/1228361421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1330855837",
+        "name": "Pro Natura Champ-Pittet",
+        "phone": "+41 24 423 35 70",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://www.pronatura-champ-pittet.ch",
+        "wheelchair": "yes",
+        "wikidata": "Q27489941"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6658735,
+          46.7836596
+        ]
+      },
+      "id": "node/1330855837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3080843609",
+        "tourism": "picnic_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6547094,
+          46.7849577
+        ]
+      },
+      "id": "node/3080843609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4814861429",
+        "fee": "yes",
+        "name": "Espace Jules Verne",
+        "opening_hours": "Tu-Su 11:00-18:00",
+        "tourism": "museum",
+        "website": "http://www.ailleurs.ch/collections/historique-espace-jules-verne/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6418065,
+          46.7787716
+        ]
+      },
+      "id": "node/4814861429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881436259",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "addr:street": "Château d'Yverdon",
+        "fee": "yes",
+        "name": "Centre de documentation et de recherche Pestalozzi",
+        "opening_hours": "Th 14:00-17:00",
+        "phone": "+41 24 423 62 60",
+        "tourism": "museum",
+        "website": "http://www.centrepestalozzi.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6418213,
+          46.7783689
+        ]
+      },
+      "id": "node/4881436259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881667126",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "addr:street": "Place Pestalozzi",
+        "fee": "no",
+        "name": "Centre d'art contemporain",
+        "opening_hours": "Th 12:00-20:00; Fr-Su 12:00-18:00",
+        "phone": "+41 24 423 63 80",
+        "tourism": "museum",
+        "website": "http://centre-art-yverdon.ch",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6408973,
+          46.7783416
+        ]
+      },
+      "id": "node/4881667126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5729132322",
+        "name:en": "Viewpoint of natural reserve",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6571356,
+          46.784045
+        ]
+      },
+      "id": "node/5729132322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5743615376",
+        "information": "office",
+        "name": "Office du tourisme",
+        "opening_hours": "Mo-Fr 09:00-12:00,13:30-18:00; Sa 09:30-15:30; Su 09:30-15:30",
+        "source": "knowledge",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6429008,
+          46.7802488
+        ]
+      },
+      "id": "node/5743615376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5786854574",
+        "information": "map",
+        "map_size": "city",
+        "map_type": "street",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6408807,
+          46.7797065
+        ]
+      },
+      "id": "node/5786854574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6546991687",
+        "information": "map",
+        "map_size": "city",
+        "map_type": "street",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6378676,
+          46.7856765
+        ]
+      },
+      "id": "node/6546991687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6710829337",
+        "information": "guidepost",
+        "operator": "Pro Natura",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6618578,
+          46.7814699
+        ]
+      },
+      "id": "node/6710829337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6710829338",
+        "information": "guidepost",
+        "operator": "Pro Natura",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.661787,
+          46.7817393
+        ]
+      },
+      "id": "node/6710829338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6710829339",
+        "information": "guidepost",
+        "operator": "Pro Natura",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6630873,
+          46.7825874
+        ]
+      },
+      "id": "node/6710829339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6710829340",
+        "information": "guidepost",
+        "operator": "SuisseMobile",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6634919,
+          46.7823965
+        ]
+      },
+      "id": "node/6710829340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7137017237",
+        "information": "map",
+        "map_size": "city",
+        "map_type": "street",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.652755,
+          46.7778731
+        ]
+      },
+      "id": "node/7137017237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7137236413",
+        "information": "map",
+        "map_size": "city",
+        "map_type": "street",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6404723,
+          46.7812949
+        ]
+      },
+      "id": "node/7137236413"
+    }
+  ]
+}

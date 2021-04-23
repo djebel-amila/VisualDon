@@ -1,0 +1,2521 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T10:43:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22770132",
+        "area": "yes",
+        "leisure": "stadium",
+        "name": "Stade de l'USY",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "athletics",
+        "surface": "tartan",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6445164,
+              46.7865072
+            ],
+            [
+              6.64573,
+              46.7859537
+            ],
+            [
+              6.6457877,
+              46.7859246
+            ],
+            [
+              6.6459564,
+              46.7858497
+            ],
+            [
+              6.6460025,
+              46.7858931
+            ],
+            [
+              6.6461634,
+              46.7858849
+            ],
+            [
+              6.6463123,
+              46.7859015
+            ],
+            [
+              6.6464525,
+              46.7859587
+            ],
+            [
+              6.6465746,
+              46.786054
+            ],
+            [
+              6.6466447,
+              46.786166
+            ],
+            [
+              6.6466704,
+              46.7862647
+            ],
+            [
+              6.6466611,
+              46.7863498
+            ],
+            [
+              6.6466128,
+              46.7864398
+            ],
+            [
+              6.646486,
+              46.7865496
+            ],
+            [
+              6.6453798,
+              46.7870599
+            ],
+            [
+              6.6451481,
+              46.7870855
+            ],
+            [
+              6.6449863,
+              46.7870676
+            ],
+            [
+              6.6448473,
+              46.7870203
+            ],
+            [
+              6.6447239,
+              46.7869552
+            ],
+            [
+              6.644649,
+              46.786869
+            ],
+            [
+              6.644577,
+              46.7867701
+            ],
+            [
+              6.6445589,
+              46.7866835
+            ],
+            [
+              6.6445865,
+              46.7865755
+            ],
+            [
+              6.6445164,
+              46.7865072
+            ]
+          ]
+        ]
+      },
+      "id": "way/22770132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26576392",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "basketball",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6467332,
+              46.7857757
+            ],
+            [
+              6.647066,
+              46.785627
+            ],
+            [
+              6.6473863,
+              46.7859632
+            ],
+            [
+              6.6470536,
+              46.7861118
+            ],
+            [
+              6.6467332,
+              46.7857757
+            ]
+          ]
+        ]
+      },
+      "id": "way/26576392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27208681",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "basketball",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6439798,
+              46.7853358
+            ],
+            [
+              6.6441192,
+              46.7854778
+            ],
+            [
+              6.643792,
+              46.7856284
+            ],
+            [
+              6.6436526,
+              46.7854865
+            ],
+            [
+              6.6439798,
+              46.7853358
+            ]
+          ]
+        ]
+      },
+      "id": "way/27208681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61321610",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "swimming",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6453807,
+              46.784763
+            ],
+            [
+              6.6456197,
+              46.7846739
+            ],
+            [
+              6.6459329,
+              46.7850677
+            ],
+            [
+              6.6456938,
+              46.7851568
+            ],
+            [
+              6.6453807,
+              46.784763
+            ]
+          ]
+        ]
+      },
+      "id": "way/61321610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61321611",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "swimming",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6457425,
+              46.7846375
+            ],
+            [
+              6.6459686,
+              46.7845526
+            ],
+            [
+              6.6461272,
+              46.7847505
+            ],
+            [
+              6.6459012,
+              46.7848354
+            ],
+            [
+              6.6457425,
+              46.7846375
+            ]
+          ]
+        ]
+      },
+      "id": "way/61321611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61321612",
+        "leisure": "swimming_pool",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6459723,
+              46.7850494
+            ],
+            [
+              6.6459012,
+              46.7849581
+            ],
+            [
+              6.6460254,
+              46.7849128
+            ],
+            [
+              6.6460965,
+              46.7850041
+            ],
+            [
+              6.6459723,
+              46.7850494
+            ]
+          ]
+        ]
+      },
+      "id": "way/61321612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77621241",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1400",
+        "addr:street": "Allée de Winterthour",
+        "building": "public",
+        "leisure": "sports_centre",
+        "name": "Patinoire Yverdon",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "skating;hockey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.645324,
+              46.7837428
+            ],
+            [
+              6.645621,
+              46.7841187
+            ],
+            [
+              6.6456576,
+              46.784165
+            ],
+            [
+              6.6457038,
+              46.7841479
+            ],
+            [
+              6.6457306,
+              46.7841817
+            ],
+            [
+              6.6456802,
+              46.7842004
+            ],
+            [
+              6.6457405,
+              46.7842768
+            ],
+            [
+              6.6451579,
+              46.7844926
+            ],
+            [
+              6.6450495,
+              46.7843553
+            ],
+            [
+              6.6449377,
+              46.7843967
+            ],
+            [
+              6.6446541,
+              46.7840378
+            ],
+            [
+              6.6447657,
+              46.7839965
+            ],
+            [
+              6.6447371,
+              46.7839602
+            ],
+            [
+              6.645324,
+              46.7837428
+            ]
+          ]
+        ]
+      },
+      "id": "way/77621241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77623292",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "source": "Orthophoto Yverdon 2011 / R-Pod @ HEIG-VD",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6455554,
+              46.7855453
+            ],
+            [
+              6.6455329,
+              46.7855275
+            ],
+            [
+              6.645527,
+              46.785504
+            ],
+            [
+              6.645539,
+              46.7854812
+            ],
+            [
+              6.6455531,
+              46.7854677
+            ],
+            [
+              6.6455712,
+              46.7854624
+            ],
+            [
+              6.645604,
+              46.7854542
+            ],
+            [
+              6.6456258,
+              46.7854594
+            ],
+            [
+              6.6456437,
+              46.7854627
+            ],
+            [
+              6.6456588,
+              46.785456
+            ],
+            [
+              6.6456658,
+              46.7854419
+            ],
+            [
+              6.6456852,
+              46.7854289
+            ],
+            [
+              6.6457105,
+              46.7854254
+            ],
+            [
+              6.6457428,
+              46.7854338
+            ],
+            [
+              6.645761,
+              46.7854539
+            ],
+            [
+              6.6457545,
+              46.785492
+            ],
+            [
+              6.645739,
+              46.7855108
+            ],
+            [
+              6.6457257,
+              46.7855268
+            ],
+            [
+              6.6456875,
+              46.7855487
+            ],
+            [
+              6.6456506,
+              46.785558
+            ],
+            [
+              6.6456135,
+              46.7855592
+            ],
+            [
+              6.6455823,
+              46.7855541
+            ],
+            [
+              6.6455554,
+              46.7855453
+            ]
+          ]
+        ]
+      },
+      "id": "way/77623292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77623293",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1400",
+        "addr:street": "Allée de Winterthour",
+        "building": "public",
+        "building:levels": "2",
+        "leisure": "sports_centre",
+        "name": "Piscine couverte Yverdon",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "swimming",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6457934,
+              46.7852876
+            ],
+            [
+              6.6463692,
+              46.7850776
+            ],
+            [
+              6.6463433,
+              46.7850443
+            ],
+            [
+              6.6464077,
+              46.7850208
+            ],
+            [
+              6.6464147,
+              46.7850182
+            ],
+            [
+              6.646426,
+              46.7850328
+            ],
+            [
+              6.6464391,
+              46.7850495
+            ],
+            [
+              6.6465469,
+              46.7850102
+            ],
+            [
+              6.6467146,
+              46.7852258
+            ],
+            [
+              6.6459595,
+              46.7855012
+            ],
+            [
+              6.6457934,
+              46.7852876
+            ]
+          ]
+        ]
+      },
+      "id": "way/77623293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79701353",
+        "area": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.646997,
+              46.7838544
+            ],
+            [
+              6.6463481,
+              46.7830275
+            ],
+            [
+              6.6471254,
+              46.7827414
+            ],
+            [
+              6.6477743,
+              46.7835684
+            ],
+            [
+              6.646997,
+              46.7838544
+            ]
+          ]
+        ]
+      },
+      "id": "way/79701353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79702320",
+        "area": "yes",
+        "leisure": "pitch",
+        "name": "4",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "tennis",
+        "surface": "clay"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6474238,
+              46.7839599
+            ],
+            [
+              6.6476315,
+              46.7838841
+            ],
+            [
+              6.6478532,
+              46.7841689
+            ],
+            [
+              6.6476455,
+              46.7842447
+            ],
+            [
+              6.64756,
+              46.7841348
+            ],
+            [
+              6.6474238,
+              46.7839599
+            ]
+          ]
+        ]
+      },
+      "id": "way/79702320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79702890",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "beachvolleyball",
+        "surface": "sand"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6429382,
+              46.7855266
+            ],
+            [
+              6.6432504,
+              46.785386
+            ],
+            [
+              6.6434096,
+              46.7855518
+            ],
+            [
+              6.6430974,
+              46.7856924
+            ],
+            [
+              6.6429382,
+              46.7855266
+            ]
+          ]
+        ]
+      },
+      "id": "way/79702890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79739528",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "soccer",
+        "surface": "artificial_turf"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6439037,
+              46.785793
+            ],
+            [
+              6.6442447,
+              46.7856391
+            ],
+            [
+              6.6443618,
+              46.7857608
+            ],
+            [
+              6.6440208,
+              46.7859146
+            ],
+            [
+              6.6439037,
+              46.785793
+            ]
+          ]
+        ]
+      },
+      "id": "way/79739528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79748205",
+        "area": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6476551,
+              46.7829752
+            ],
+            [
+              6.647276,
+              46.7824846
+            ],
+            [
+              6.6483872,
+              46.782082
+            ],
+            [
+              6.6487663,
+              46.7825726
+            ],
+            [
+              6.6476551,
+              46.7829752
+            ]
+          ]
+        ]
+      },
+      "id": "way/79748205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79748206",
+        "area": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.648084,
+              46.7835336
+            ],
+            [
+              6.6477072,
+              46.7830453
+            ],
+            [
+              6.648819,
+              46.782643
+            ],
+            [
+              6.6490884,
+              46.7829943
+            ],
+            [
+              6.649194,
+              46.783132
+            ],
+            [
+              6.648084,
+              46.7835336
+            ]
+          ]
+        ]
+      },
+      "id": "way/79748206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79748209",
+        "area": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6492871,
+              46.783135
+            ],
+            [
+              6.6503952,
+              46.7827284
+            ],
+            [
+              6.6507766,
+              46.7832159
+            ],
+            [
+              6.6496685,
+              46.7836225
+            ],
+            [
+              6.6492871,
+              46.783135
+            ]
+          ]
+        ]
+      },
+      "id": "way/79748209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79754293",
+        "area": "yes",
+        "leisure": "pitch",
+        "name": "1",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "tennis",
+        "surface": "clay"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6467482,
+              46.7841824
+            ],
+            [
+              6.6465209,
+              46.7838839
+            ],
+            [
+              6.646727,
+              46.7838104
+            ],
+            [
+              6.6469542,
+              46.7841088
+            ],
+            [
+              6.6467482,
+              46.7841824
+            ]
+          ]
+        ]
+      },
+      "id": "way/79754293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79756318",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "17",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Pêcheurs",
+        "building": "yes",
+        "leisure": "sports_centre",
+        "name": "Tennis Yverdon",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6480968,
+              46.7841111
+            ],
+            [
+              6.648211,
+              46.7842581
+            ],
+            [
+              6.6481615,
+              46.7842761
+            ],
+            [
+              6.6482749,
+              46.7844221
+            ],
+            [
+              6.6478177,
+              46.7845885
+            ],
+            [
+              6.6477853,
+              46.7845468
+            ],
+            [
+              6.6476389,
+              46.7846001
+            ],
+            [
+              6.6476732,
+              46.7846443
+            ],
+            [
+              6.6472157,
+              46.7848109
+            ],
+            [
+              6.6470908,
+              46.78465
+            ],
+            [
+              6.6474341,
+              46.784525
+            ],
+            [
+              6.6474224,
+              46.7845098
+            ],
+            [
+              6.6470874,
+              46.7846318
+            ],
+            [
+              6.6470017,
+              46.7845215
+            ],
+            [
+              6.6471633,
+              46.7844626
+            ],
+            [
+              6.6472097,
+              46.7845223
+            ],
+            [
+              6.647696,
+              46.7843452
+            ],
+            [
+              6.6476426,
+              46.7842765
+            ],
+            [
+              6.6480968,
+              46.7841111
+            ]
+          ]
+        ]
+      },
+      "id": "way/79756318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79798520",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6396403,
+              46.7851176
+            ],
+            [
+              6.6397441,
+              46.7854528
+            ],
+            [
+              6.6391027,
+              46.7855459
+            ],
+            [
+              6.6390838,
+              46.7854848
+            ],
+            [
+              6.6390034,
+              46.7852249
+            ],
+            [
+              6.6389989,
+              46.7852107
+            ],
+            [
+              6.6396403,
+              46.7851176
+            ]
+          ]
+        ]
+      },
+      "id": "way/79798520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79823850",
+        "addr:housenumber": "15",
+        "addr:street": "Avenue des Sports",
+        "building": "yes",
+        "name": "Badminton Club",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "badminton"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6541382,
+              46.7802686
+            ],
+            [
+              6.6539454,
+              46.7800225
+            ],
+            [
+              6.6547343,
+              46.7797254
+            ],
+            [
+              6.6547696,
+              46.7797286
+            ],
+            [
+              6.6548415,
+              46.7798236
+            ],
+            [
+              6.6548147,
+              46.7798669
+            ],
+            [
+              6.654613,
+              46.779939
+            ],
+            [
+              6.6547065,
+              46.7800626
+            ],
+            [
+              6.6543527,
+              46.7801908
+            ],
+            [
+              6.6543875,
+              46.7802367
+            ],
+            [
+              6.6542069,
+              46.7803012
+            ],
+            [
+              6.6541727,
+              46.7802561
+            ],
+            [
+              6.6541382,
+              46.7802686
+            ]
+          ]
+        ]
+      },
+      "id": "way/79823850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/79904778",
+        "building": "yes",
+        "leisure": "sports_hall",
+        "name": "Salle de gymnastique du collège Pestalozzi",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "multi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6409035,
+              46.7775098
+            ],
+            [
+              6.640838,
+              46.7773468
+            ],
+            [
+              6.6409604,
+              46.7773236
+            ],
+            [
+              6.6409748,
+              46.7773594
+            ],
+            [
+              6.6412453,
+              46.7773081
+            ],
+            [
+              6.6412964,
+              46.7774354
+            ],
+            [
+              6.6409035,
+              46.7775098
+            ]
+          ]
+        ]
+      },
+      "id": "way/79904778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80038507",
+        "addr:housenumber": "6",
+        "addr:street": "Quai de Nogent",
+        "building": "yes",
+        "name": "Union Nautique Yverdon",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "rowing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6402146,
+              46.7866532
+            ],
+            [
+              6.6403654,
+              46.7864993
+            ],
+            [
+              6.6404801,
+              46.786552
+            ],
+            [
+              6.6403293,
+              46.7867059
+            ],
+            [
+              6.6402146,
+              46.7866532
+            ]
+          ]
+        ]
+      },
+      "id": "way/80038507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80255010",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "basketball",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6468833,
+              46.7854377
+            ],
+            [
+              6.647033,
+              46.7855925
+            ],
+            [
+              6.6467059,
+              46.7857409
+            ],
+            [
+              6.6465562,
+              46.7855861
+            ],
+            [
+              6.6468833,
+              46.7854377
+            ]
+          ]
+        ]
+      },
+      "id": "way/80255010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/81642434",
+        "leisure": "pitch",
+        "man_made": "pier",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "rowing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6399488,
+              46.7868557
+            ],
+            [
+              6.6399789,
+              46.7868722
+            ],
+            [
+              6.6400095,
+              46.7868438
+            ],
+            [
+              6.6400698,
+              46.7868791
+            ],
+            [
+              6.6400382,
+              46.7869041
+            ],
+            [
+              6.6401912,
+              46.786988
+            ],
+            [
+              6.6401656,
+              46.7870101
+            ],
+            [
+              6.6399236,
+              46.7868773
+            ],
+            [
+              6.6399488,
+              46.7868557
+            ]
+          ]
+        ]
+      },
+      "id": "way/81642434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82227748",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6566362,
+              46.7782207
+            ],
+            [
+              6.6562629,
+              46.77812
+            ],
+            [
+              6.6563289,
+              46.7780052
+            ],
+            [
+              6.6567023,
+              46.7781059
+            ],
+            [
+              6.6566362,
+              46.7782207
+            ]
+          ]
+        ]
+      },
+      "id": "way/82227748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91886096",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6648138,
+              46.779649
+            ],
+            [
+              6.6647093,
+              46.7795822
+            ],
+            [
+              6.6649227,
+              46.7794247
+            ],
+            [
+              6.6650271,
+              46.7794914
+            ],
+            [
+              6.6648138,
+              46.779649
+            ]
+          ]
+        ]
+      },
+      "id": "way/91886096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91886097",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6646768,
+              46.7795656
+            ],
+            [
+              6.6645723,
+              46.7794988
+            ],
+            [
+              6.6647856,
+              46.7793413
+            ],
+            [
+              6.6648901,
+              46.7794081
+            ],
+            [
+              6.6646768,
+              46.7795656
+            ]
+          ]
+        ]
+      },
+      "id": "way/91886097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91886109",
+        "leisure": "pitch",
+        "sport": "basketball"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6649452,
+              46.7797309
+            ],
+            [
+              6.6648407,
+              46.7796641
+            ],
+            [
+              6.665054,
+              46.7795066
+            ],
+            [
+              6.6651585,
+              46.7795733
+            ],
+            [
+              6.6649452,
+              46.7797309
+            ]
+          ]
+        ]
+      },
+      "id": "way/91886109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109914189",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "basketball",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.643855,
+              46.7852087
+            ],
+            [
+              6.6439798,
+              46.7853358
+            ],
+            [
+              6.6436526,
+              46.7854865
+            ],
+            [
+              6.6435278,
+              46.7853593
+            ],
+            [
+              6.643855,
+              46.7852087
+            ]
+          ]
+        ]
+      },
+      "id": "way/109914189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109914634",
+        "covered": "no",
+        "leisure": "swimming_pool",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "swimming"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.646069,
+              46.7848906
+            ],
+            [
+              6.6460448,
+              46.7848614
+            ],
+            [
+              6.6461219,
+              46.7848315
+            ],
+            [
+              6.6461461,
+              46.7848608
+            ],
+            [
+              6.646069,
+              46.7848906
+            ]
+          ]
+        ]
+      },
+      "id": "way/109914634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109918051",
+        "leisure": "pitch",
+        "name": "Terrain de beach volley",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "beachvolleyball",
+        "surface": "sand"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.651635,
+              46.7841439
+            ],
+            [
+              6.6513172,
+              46.7840554
+            ],
+            [
+              6.6514407,
+              46.7838474
+            ],
+            [
+              6.6517585,
+              46.7839358
+            ],
+            [
+              6.651635,
+              46.7841439
+            ]
+          ]
+        ]
+      },
+      "id": "way/109918051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109923207",
+        "area": "yes",
+        "leisure": "pitch",
+        "lit": "yes",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6480779,
+              46.7836496
+            ],
+            [
+              6.6492376,
+              46.783228
+            ],
+            [
+              6.6496304,
+              46.7837346
+            ],
+            [
+              6.6484707,
+              46.7841562
+            ],
+            [
+              6.6480779,
+              46.7836496
+            ]
+          ]
+        ]
+      },
+      "id": "way/109923207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158852058",
+        "area": "yes",
+        "leisure": "stadium",
+        "name": "Stade de l'USY",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "athletics",
+        "surface": "tartan",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6447047,
+              46.787106
+            ],
+            [
+              6.6443465,
+              46.7867365
+            ],
+            [
+              6.6444016,
+              46.7867113
+            ],
+            [
+              6.6447599,
+              46.7870808
+            ],
+            [
+              6.6447047,
+              46.787106
+            ]
+          ]
+        ]
+      },
+      "id": "way/158852058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158852059",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2012 / R-Pod @ HEIG-VD",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6390953,
+              46.7874405
+            ],
+            [
+              6.6385985,
+              46.7871538
+            ],
+            [
+              6.6387699,
+              46.7870136
+            ],
+            [
+              6.6392668,
+              46.7873002
+            ],
+            [
+              6.6390953,
+              46.7874405
+            ]
+          ]
+        ]
+      },
+      "id": "way/158852059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239034129",
+        "area": "yes",
+        "leisure": "pitch",
+        "name": "3",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "tennis",
+        "surface": "clay"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6469883,
+              46.7840966
+            ],
+            [
+              6.6472027,
+              46.7840201
+            ],
+            [
+              6.6473434,
+              46.7842048
+            ],
+            [
+              6.6474341,
+              46.7843239
+            ],
+            [
+              6.6472196,
+              46.7844004
+            ],
+            [
+              6.6469883,
+              46.7840966
+            ]
+          ]
+        ]
+      },
+      "id": "way/239034129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239034130",
+        "area": "yes",
+        "leisure": "pitch",
+        "name": "2",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "tennis",
+        "surface": "clay"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6472196,
+              46.7844004
+            ],
+            [
+              6.6469795,
+              46.7844862
+            ],
+            [
+              6.6467482,
+              46.7841824
+            ],
+            [
+              6.6469542,
+              46.7841088
+            ],
+            [
+              6.6469883,
+              46.7840966
+            ],
+            [
+              6.6472196,
+              46.7844004
+            ]
+          ]
+        ]
+      },
+      "id": "way/239034130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/358304693",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2015 / R-Pod @ HEIG-VD",
+        "sport": "soccer",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6361467,
+              46.7842559
+            ],
+            [
+              6.6361533,
+              46.783984
+            ],
+            [
+              6.6363625,
+              46.7839864
+            ],
+            [
+              6.6363559,
+              46.7842583
+            ],
+            [
+              6.6361467,
+              46.7842559
+            ]
+          ]
+        ]
+      },
+      "id": "way/358304693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/458077207",
+        "leisure": "pitch",
+        "name": "Skatepark des Rives du Lac",
+        "sport": "skateboard",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6436965,
+              46.7847394
+            ],
+            [
+              6.6436103,
+              46.7846483
+            ],
+            [
+              6.6435149,
+              46.7846906
+            ],
+            [
+              6.6434571,
+              46.7846295
+            ],
+            [
+              6.6441161,
+              46.784337
+            ],
+            [
+              6.6441065,
+              46.7843263
+            ],
+            [
+              6.6441035,
+              46.7843198
+            ],
+            [
+              6.644103,
+              46.7843136
+            ],
+            [
+              6.6441051,
+              46.7843072
+            ],
+            [
+              6.6441098,
+              46.7842996
+            ],
+            [
+              6.64413,
+              46.7842695
+            ],
+            [
+              6.6441343,
+              46.7842652
+            ],
+            [
+              6.64414,
+              46.7842614
+            ],
+            [
+              6.6441464,
+              46.7842588
+            ],
+            [
+              6.6441536,
+              46.7842568
+            ],
+            [
+              6.6441625,
+              46.784256
+            ],
+            [
+              6.6441712,
+              46.7842564
+            ],
+            [
+              6.6443516,
+              46.7842681
+            ],
+            [
+              6.644367,
+              46.7842705
+            ],
+            [
+              6.6443821,
+              46.7842745
+            ],
+            [
+              6.6443943,
+              46.784279
+            ],
+            [
+              6.6444047,
+              46.7842838
+            ],
+            [
+              6.6444149,
+              46.7842899
+            ],
+            [
+              6.6444245,
+              46.7842973
+            ],
+            [
+              6.6444324,
+              46.7843046
+            ],
+            [
+              6.6444376,
+              46.7843111
+            ],
+            [
+              6.6444418,
+              46.7843174
+            ],
+            [
+              6.6444465,
+              46.7843265
+            ],
+            [
+              6.6444493,
+              46.7843356
+            ],
+            [
+              6.6444501,
+              46.784344
+            ],
+            [
+              6.6444508,
+              46.7843524
+            ],
+            [
+              6.6444493,
+              46.7843605
+            ],
+            [
+              6.6444451,
+              46.7843725
+            ],
+            [
+              6.6444064,
+              46.7844598
+            ],
+            [
+              6.6444022,
+              46.7844664
+            ],
+            [
+              6.6443972,
+              46.7844707
+            ],
+            [
+              6.644391,
+              46.7844749
+            ],
+            [
+              6.6443841,
+              46.7844783
+            ],
+            [
+              6.6443755,
+              46.7844808
+            ],
+            [
+              6.6443675,
+              46.7844823
+            ],
+            [
+              6.6443603,
+              46.7844831
+            ],
+            [
+              6.6442602,
+              46.7844892
+            ],
+            [
+              6.6436965,
+              46.7847394
+            ]
+          ]
+        ]
+      },
+      "id": "way/458077207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490128622",
+        "leisure": "pitch",
+        "lit": "yes",
+        "name": "5",
+        "sport": "tennis",
+        "surface": "clay"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6476426,
+              46.7842765
+            ],
+            [
+              6.6480968,
+              46.7841111
+            ],
+            [
+              6.648211,
+              46.7842581
+            ],
+            [
+              6.6481615,
+              46.7842761
+            ],
+            [
+              6.6477568,
+              46.7844235
+            ],
+            [
+              6.647696,
+              46.7843452
+            ],
+            [
+              6.6476426,
+              46.7842765
+            ]
+          ]
+        ]
+      },
+      "id": "way/490128622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490128623",
+        "leisure": "pitch",
+        "name": "6",
+        "sport": "tennis",
+        "surface": "clay"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6481615,
+              46.7842761
+            ],
+            [
+              6.6482749,
+              46.7844221
+            ],
+            [
+              6.6478177,
+              46.7845885
+            ],
+            [
+              6.6477853,
+              46.7845468
+            ],
+            [
+              6.6477044,
+              46.7844426
+            ],
+            [
+              6.6477568,
+              46.7844235
+            ],
+            [
+              6.6481615,
+              46.7842761
+            ]
+          ]
+        ]
+      },
+      "id": "way/490128623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490128625",
+        "leisure": "pitch",
+        "name": "7",
+        "sport": "tennis"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6472157,
+              46.7848109
+            ],
+            [
+              6.6470908,
+              46.78465
+            ],
+            [
+              6.6474341,
+              46.784525
+            ],
+            [
+              6.6475483,
+              46.7844834
+            ],
+            [
+              6.6476389,
+              46.7846001
+            ],
+            [
+              6.6476732,
+              46.7846443
+            ],
+            [
+              6.6472157,
+              46.7848109
+            ]
+          ]
+        ]
+      },
+      "id": "way/490128625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/611182158",
+        "leisure": "pitch",
+        "sport": "soccer;athletics"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6649803,
+              46.7791805
+            ],
+            [
+              6.6653887,
+              46.7788741
+            ],
+            [
+              6.6661502,
+              46.7793501
+            ],
+            [
+              6.6657418,
+              46.7796565
+            ],
+            [
+              6.6649803,
+              46.7791805
+            ]
+          ]
+        ]
+      },
+      "id": "way/611182158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707011937",
+        "area": "yes",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "athletics",
+        "surface": "grass",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6447879,
+              46.7868378
+            ],
+            [
+              6.644733,
+              46.7867939
+            ],
+            [
+              6.6446954,
+              46.7867443
+            ],
+            [
+              6.6446699,
+              46.7866873
+            ],
+            [
+              6.6446738,
+              46.7866286
+            ],
+            [
+              6.6446874,
+              46.7865799
+            ],
+            [
+              6.6447222,
+              46.7865367
+            ],
+            [
+              6.6447625,
+              46.7864917
+            ],
+            [
+              6.6448218,
+              46.7864557
+            ],
+            [
+              6.6458141,
+              46.7860111
+            ],
+            [
+              6.6459164,
+              46.7859776
+            ],
+            [
+              6.6459953,
+              46.7859727
+            ],
+            [
+              6.6464564,
+              46.7864553
+            ],
+            [
+              6.6464157,
+              46.7864971
+            ],
+            [
+              6.6463566,
+              46.7865414
+            ],
+            [
+              6.6453384,
+              46.7869976
+            ],
+            [
+              6.6452681,
+              46.7870207
+            ],
+            [
+              6.6451997,
+              46.7870289
+            ],
+            [
+              6.6451326,
+              46.7870344
+            ],
+            [
+              6.6450592,
+              46.7870248
+            ],
+            [
+              6.6449824,
+              46.7870023
+            ],
+            [
+              6.6449153,
+              46.7869665
+            ],
+            [
+              6.6448671,
+              46.7869242
+            ],
+            [
+              6.6448308,
+              46.7868757
+            ],
+            [
+              6.6450835,
+              46.7867625
+            ],
+            [
+              6.6450452,
+              46.7867225
+            ],
+            [
+              6.6447879,
+              46.7868378
+            ]
+          ]
+        ]
+      },
+      "id": "way/707011937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/864541573",
+        "leisure": "pitch",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "sport": "fitness",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6435278,
+              46.7853593
+            ],
+            [
+              6.6434575,
+              46.7852878
+            ],
+            [
+              6.6437847,
+              46.7851371
+            ],
+            [
+              6.643855,
+              46.7852087
+            ],
+            [
+              6.6435278,
+              46.7853593
+            ]
+          ]
+        ]
+      },
+      "id": "way/864541573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3578326057",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "32",
+        "addr:postcode": "1400",
+        "addr:street": "Avenue des Sports",
+        "amenity": "bar",
+        "name": "Bowling Yverdon - Saint-Rock Café",
+        "opening_hours": "Mo-Th 14:00-00:00; Fr-Sa 14:00-02:00; Su 14:00-19:00",
+        "phone": "+41 24 426 24 14",
+        "sport": "9pin",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bowlingyverdon.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6488607,
+          46.7811198
+        ]
+      },
+      "id": "node/3578326057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4935295930",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "20",
+        "addr:postcode": "1400",
+        "addr:street": "Chemin de la Grève de Clendy",
+        "amenity": "boat_rental",
+        "name": "Y-Plage",
+        "operator": "Enzo Porcelli",
+        "phone": "+41 79 394 94 00",
+        "sport": "pedalo;surfing",
+        "website": "https://www.y-plage.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6514671,
+          46.7856188
+        ]
+      },
+      "id": "node/4935295930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5355409860",
+        "leisure": "fitness_centre",
+        "name": "Let's Go Yverdon",
+        "sport": "fitness",
+        "website": "https://www.letsgofitness.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6451609,
+          46.7811894
+        ]
+      },
+      "id": "node/5355409860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8556287318",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6458643,
+          46.7844474
+        ]
+      },
+      "id": "node/8556287318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8556287319",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6458164,
+          46.7844607
+        ]
+      },
+      "id": "node/8556287319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8556287320",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6457871,
+          46.7843905
+        ]
+      },
+      "id": "node/8556287320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8556287321",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6458232,
+          46.7843764
+        ]
+      },
+      "id": "node/8556287321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8635650973",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6371898,
+          46.7795349
+        ]
+      },
+      "id": "node/8635650973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8635650974",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6371375,
+          46.7795161
+        ]
+      },
+      "id": "node/8635650974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8647885675",
+        "leisure": "pitch",
+        "sport": "table_tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6591828,
+          46.7791224
+        ]
+      },
+      "id": "node/8647885675"
+    }
+  ]
+}

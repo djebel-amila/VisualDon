@@ -1,0 +1,1368 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T10:40:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34223526",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6389666,
+              46.7819304
+            ],
+            [
+              6.6389551,
+              46.7819093
+            ],
+            [
+              6.6397482,
+              46.7817046
+            ],
+            [
+              6.6397233,
+              46.7816575
+            ],
+            [
+              6.6398813,
+              46.7816181
+            ],
+            [
+              6.6399185,
+              46.7816862
+            ],
+            [
+              6.6401076,
+              46.7816377
+            ],
+            [
+              6.640112,
+              46.7816482
+            ],
+            [
+              6.6389666,
+              46.7819304
+            ]
+          ]
+        ]
+      },
+      "id": "way/34223526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33827502",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "no",
+        "wheelchair:description": "Toilettes Eurokey",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3088445,
+            "reltags": {
+              "name": "Yverdon-les-Bains",
+              "network": "Mobilis",
+              "network:wikidata": "Q2394222",
+              "operator": "SBB",
+              "public_transport": "stop_area",
+              "railway:ref": "YV",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains",
+              "uic_ref": "8504200",
+              "wikidata": "Q12174841"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6381435,
+              46.782481
+            ],
+            [
+              6.638677,
+              46.7822707
+            ],
+            [
+              6.6396046,
+              46.7819936
+            ],
+            [
+              6.6405882,
+              46.781739
+            ],
+            [
+              6.6408407,
+              46.7816737
+            ],
+            [
+              6.640964,
+              46.7816418
+            ],
+            [
+              6.6415411,
+              46.7814924
+            ],
+            [
+              6.6433178,
+              46.7810325
+            ],
+            [
+              6.6433337,
+              46.7810491
+            ],
+            [
+              6.6431825,
+              46.7810984
+            ],
+            [
+              6.6429337,
+              46.7811794
+            ],
+            [
+              6.6427147,
+              46.7812484
+            ],
+            [
+              6.6421081,
+              46.7814082
+            ],
+            [
+              6.6418448,
+              46.7814815
+            ],
+            [
+              6.6415765,
+              46.781575
+            ],
+            [
+              6.6415387,
+              46.7815882
+            ],
+            [
+              6.6411766,
+              46.7816927
+            ],
+            [
+              6.6410067,
+              46.7817363
+            ],
+            [
+              6.6408952,
+              46.781765
+            ],
+            [
+              6.6406361,
+              46.7818315
+            ],
+            [
+              6.6389576,
+              46.7822626
+            ],
+            [
+              6.6387213,
+              46.7823258
+            ],
+            [
+              6.6383876,
+              46.7824199
+            ],
+            [
+              6.6381593,
+              46.7824946
+            ],
+            [
+              6.6381435,
+              46.782481
+            ]
+          ]
+        ]
+      },
+      "id": "way/33827502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34223522",
+        "area": "yes",
+        "public_transport": "platform",
+        "railway": "platform",
+        "source": "Orthophoto Yverdon 2007 / HEIG-VD",
+        "wheelchair": "yes",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 3088445,
+            "reltags": {
+              "name": "Yverdon-les-Bains",
+              "network": "Mobilis",
+              "network:wikidata": "Q2394222",
+              "operator": "SBB",
+              "public_transport": "stop_area",
+              "railway:ref": "YV",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains",
+              "uic_ref": "8504200",
+              "wikidata": "Q12174841"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.6380831,
+              46.7824128
+            ],
+            [
+              6.6380644,
+              46.7823905
+            ],
+            [
+              6.6388663,
+              46.7820927
+            ],
+            [
+              6.6391652,
+              46.7819922
+            ],
+            [
+              6.6403207,
+              46.7816875
+            ],
+            [
+              6.6405861,
+              46.7816202
+            ],
+            [
+              6.6407426,
+              46.7815735
+            ],
+            [
+              6.6409162,
+              46.7815289
+            ],
+            [
+              6.6409254,
+              46.7815457
+            ],
+            [
+              6.6410029,
+              46.7815258
+            ],
+            [
+              6.6409937,
+              46.7815089
+            ],
+            [
+              6.6412615,
+              46.7814401
+            ],
+            [
+              6.6423249,
+              46.7811602
+            ],
+            [
+              6.642812,
+              46.7810363
+            ],
+            [
+              6.6428186,
+              46.7810487
+            ],
+            [
+              6.6429865,
+              46.7810183
+            ],
+            [
+              6.6429939,
+              46.7810339
+            ],
+            [
+              6.6422913,
+              46.781218
+            ],
+            [
+              6.6395055,
+              46.7819377
+            ],
+            [
+              6.6391452,
+              46.782038
+            ],
+            [
+              6.638854,
+              46.7821295
+            ],
+            [
+              6.6385706,
+              46.7822244
+            ],
+            [
+              6.6380831,
+              46.7824128
+            ]
+          ]
+        ]
+      },
+      "id": "way/34223522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33479891",
+        "bicycle": "dismount",
+        "departures_board": "timetable",
+        "foot": "designated",
+        "highway": "footway",
+        "horse": "no",
+        "motor_vehicle": "no",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "CFF",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "Yverdon-Champs Pittet",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "train": "yes",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6616418,
+            46.7816663
+          ],
+          [
+            6.6617997,
+            46.7817563
+          ],
+          [
+            6.6624422,
+            46.7821748
+          ],
+          [
+            6.6630357,
+            46.7825787
+          ],
+          [
+            6.6630547,
+            46.7825914
+          ]
+        ]
+      },
+      "id": "way/33479891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741942194",
+        "bicycle": "dismount",
+        "departures_board": "realtime",
+        "foot": "designated",
+        "highway": "footway",
+        "incline": "0%",
+        "lit": "yes",
+        "network": "SBB",
+        "operator": "SBB",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "Yverdon-les-Bains",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "train": "yes",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6403807,
+            46.7818519
+          ],
+          [
+            6.638707,
+            46.7823012
+          ],
+          [
+            6.6383775,
+            46.7824066
+          ],
+          [
+            6.6381594,
+            46.7824849
+          ]
+        ]
+      },
+      "id": "way/741942194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750398943",
+        "access": "yes",
+        "bicycle": "dismount",
+        "departures_board": "realtime",
+        "foot": "designated",
+        "highway": "footway",
+        "horse": "no",
+        "incline": "0&",
+        "lit": "yes",
+        "motor_vehicle": "no",
+        "network": "SBB",
+        "operator": "SBB",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "Yverdon-les-Bains",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "train": "yes",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6415595,
+            46.7815443
+          ],
+          [
+            6.6418488,
+            46.7814535
+          ],
+          [
+            6.642675,
+            46.7812343
+          ],
+          [
+            6.6433067,
+            46.7810467
+          ]
+        ]
+      },
+      "id": "way/750398943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/752319575",
+        "bicycle": "dismount",
+        "departures_board": "realtime",
+        "foot": "designated",
+        "highway": "footway",
+        "incline": "0%",
+        "lit": "yes",
+        "network": "SBB",
+        "operator": "SBB",
+        "public_transport": "platform",
+        "railway": "platform",
+        "ref": "Yverdon-les-Bains",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "train": "yes",
+        "width": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.6429661,
+            46.7810309
+          ],
+          [
+            6.6423558,
+            46.7811774
+          ],
+          [
+            6.6413786,
+            46.7814285
+          ],
+          [
+            6.6406271,
+            46.781625
+          ],
+          [
+            6.6402866,
+            46.7817142
+          ],
+          [
+            6.6398141,
+            46.781838
+          ],
+          [
+            6.639176,
+            46.7820099
+          ],
+          [
+            6.6389233,
+            46.7820889
+          ],
+          [
+            6.6385759,
+            46.7822095
+          ],
+          [
+            6.6380861,
+            46.782397
+          ]
+        ]
+      },
+      "id": "way/752319575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/213882172",
+        "local_ref": "1",
+        "name": "Yverdon-Champ Pittet",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "SBB",
+        "public_transport": "stop_position",
+        "train": "yes",
+        "uic_name": "Yverdon-Champ Pittet",
+        "uic_ref": "8504144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6622164,
+          46.7821172
+        ]
+      },
+      "id": "node/213882172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/856321151",
+        "bench": "yes",
+        "bus": "yes",
+        "ele": "444",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, HEIG-VD",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "uic_name": "Yverdon-les-Bains, HEIG-VD",
+        "uic_ref": "8570318",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.658801,
+          46.778616
+        ]
+      },
+      "id": "node/856321151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/864654660",
+        "bus": "yes",
+        "ele": "444",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, HEIG-VD",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no",
+        "uic_name": "Yverdon-les-Bains, HEIG-VD",
+        "uic_ref": "8570318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6589517,
+          46.7783881
+        ]
+      },
+      "id": "node/864654660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/922638641",
+        "bench": "yes",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "local_ref": "Z",
+        "name": "Yverdon-les-Bains, gare",
+        "operator": "PAG",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "uic_name": "Yverdon-les-Bains, gare",
+        "uic_ref": "8504774",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 9372368,
+            "reltags": {
+              "name": "Yverdon-les-Bains, gare",
+              "public_transport": "stop_area",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains, gare",
+              "uic_ref": "8504774"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.639798,
+          46.7815762
+        ]
+      },
+      "id": "node/922638641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/922639276",
+        "bench": "yes",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "local_ref": "V",
+        "name": "Yverdon-les-Bains, gare",
+        "operator": "PAG",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "uic_name": "Yverdon-les-Bains, gare",
+        "uic_ref": "8504774",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 9372368,
+            "reltags": {
+              "name": "Yverdon-les-Bains, gare",
+              "public_transport": "stop_area",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains, gare",
+              "uic_ref": "8504774"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6398307,
+          46.7810901
+        ]
+      },
+      "id": "node/922639276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/960814361",
+        "bench": "yes",
+        "ele": "434",
+        "gtfs:stop_id": "8579294",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Bel-Air",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2014",
+        "tactile_paving": "no",
+        "uic_name": "Yverdon-les-Bains, Bel-Air",
+        "uic_ref": "8579294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6370588,
+          46.7806726
+        ]
+      },
+      "id": "node/960814361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/983805244",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Clendy",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "uic_name": "Yverdon-les-Bains, Clendy",
+        "uic_ref": "8579289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6549542,
+          46.7782699
+        ]
+      },
+      "id": "node/983805244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/983805514",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, 14 Avril",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "tactile_paving": "no",
+        "uic_name": "Yverdon-les-Bains, 14 Avril",
+        "uic_ref": "8582051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6519579,
+          46.7778664
+        ]
+      },
+      "id": "node/983805514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/983806566",
+        "bench": "yes",
+        "bus": "yes",
+        "ele": "435",
+        "highway": "bus_stop",
+        "name": "Yverdon, Quai de la Thièle",
+        "operator": "PAG",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "tactile_paving": "yes",
+        "uic_name": "Yverdon, Quai de la Thièle",
+        "uic_ref": "8575840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6369153,
+          46.7821064
+        ]
+      },
+      "id": "node/983806566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/983806845",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Maison Rouge",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "uic_name": "Yverdon-les-Bains,Maison Rouge",
+        "uic_ref": "8594062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6455123,
+          46.7792197
+        ]
+      },
+      "id": "node/983806845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1478221320",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Maison Rouge",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "uic_name": "Yverdon-les-Bains,Maison Rouge",
+        "uic_ref": "8594062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6454468,
+          46.7790633
+        ]
+      },
+      "id": "node/1478221320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1980892732",
+        "ele": "435",
+        "name": "Champ-Pittet",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "halt",
+        "uic_name": "Yverdon-Champ Pittet",
+        "uic_ref": "8504144",
+        "wheelchair": "yes",
+        "wikidata": "Q15964300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6624043,
+          46.7821898
+        ]
+      },
+      "id": "node/1980892732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2388447357",
+        "local_ref": "1",
+        "name": "Yverdon-les-Bains",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "SBB",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "uic_name": "Yverdon-les-Bains",
+        "uic_ref": "8504200",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3088445,
+            "reltags": {
+              "name": "Yverdon-les-Bains",
+              "network": "Mobilis",
+              "network:wikidata": "Q2394222",
+              "operator": "SBB",
+              "public_transport": "stop_area",
+              "railway:ref": "YV",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains",
+              "uic_ref": "8504200",
+              "wikidata": "Q12174841"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6409998,
+          46.7815666
+        ]
+      },
+      "id": "node/2388447357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2388447358",
+        "local_ref": "2",
+        "name": "Yverdon-les-Bains",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "SBB",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "uic_name": "Yverdon-les-Bains",
+        "uic_ref": "8504200",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3088445,
+            "reltags": {
+              "name": "Yverdon-les-Bains",
+              "network": "Mobilis",
+              "network:wikidata": "Q2394222",
+              "operator": "SBB",
+              "public_transport": "stop_area",
+              "railway:ref": "YV",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains",
+              "uic_ref": "8504200",
+              "wikidata": "Q12174841"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6410172,
+          46.7816107
+        ]
+      },
+      "id": "node/2388447358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2388447359",
+        "local_ref": "3",
+        "name": "Yverdon-les-Bains",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "SBB",
+        "public_transport": "stop_position",
+        "railway": "stop",
+        "train": "yes",
+        "uic_name": "Yverdon-les-Bains",
+        "uic_ref": "8504200",
+        "@relations": [
+          {
+            "role": "stop",
+            "rel": 3088445,
+            "reltags": {
+              "name": "Yverdon-les-Bains",
+              "network": "Mobilis",
+              "network:wikidata": "Q2394222",
+              "operator": "SBB",
+              "public_transport": "stop_area",
+              "railway:ref": "YV",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains",
+              "uic_ref": "8504200",
+              "wikidata": "Q12174841"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6410656,
+          46.7817335
+        ]
+      },
+      "id": "node/2388447359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2895142688",
+        "ele": "430",
+        "fixme": "ferry_terminal not connected with ferry route, not connected to ground route",
+        "name": "Yverdon-les-Bains",
+        "operator": "LNM",
+        "public_transport": "stop_position",
+        "uic_name": "Yverdon-les-Bains LNM",
+        "uic_ref": "8504558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640548,
+          46.7872121
+        ]
+      },
+      "id": "node/2895142688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3081154457",
+        "ele": "435",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "SBB",
+        "name": "Yverdon-les-Bains",
+        "operator": "SBB",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "YV",
+        "uic_name": "Yverdon-les-Bains",
+        "uic_ref": "8504200",
+        "wheelchair": "yes",
+        "wikidata": "Q12174841",
+        "@relations": [
+          {
+            "role": "",
+            "rel": 3088445,
+            "reltags": {
+              "name": "Yverdon-les-Bains",
+              "network": "Mobilis",
+              "network:wikidata": "Q2394222",
+              "operator": "SBB",
+              "public_transport": "stop_area",
+              "railway:ref": "YV",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains",
+              "uic_ref": "8504200",
+              "wikidata": "Q12174841"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6409615,
+          46.7814422
+        ]
+      },
+      "id": "node/3081154457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248053046",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "X",
+        "name": "Yverdon-les-Bains, gare",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 9372368,
+            "reltags": {
+              "name": "Yverdon-les-Bains, gare",
+              "public_transport": "stop_area",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains, gare",
+              "uic_ref": "8504774"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6397938,
+          46.7811793
+        ]
+      },
+      "id": "node/3248053046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3248053047",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "local_ref": "Y",
+        "name": "Yverdon-les-Bains, gare",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes",
+        "@relations": [
+          {
+            "role": "platform",
+            "rel": 9372368,
+            "reltags": {
+              "name": "Yverdon-les-Bains, gare",
+              "public_transport": "stop_area",
+              "type": "public_transport",
+              "uic_name": "Yverdon-les-Bains, gare",
+              "uic_ref": "8504774"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6398076,
+          46.7815081
+        ]
+      },
+      "id": "node/3248053047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4442293990",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Pont du Buron",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.650249,
+          46.7780126
+        ]
+      },
+      "id": "node/4442293990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5357845914",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Pont du Buron",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6497781,
+          46.7783218
+        ]
+      },
+      "id": "node/5357845914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6542682632",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Cheseaux-Noréaz, Coteau des Ifs",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "short_name": "Cheseaux-N., Coteau des Ifs",
+        "uic_name": "Cheseaux-N., Coteau des Ifs",
+        "uic_ref": "8596076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6662438,
+          46.7807055
+        ]
+      },
+      "id": "node/6542682632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680086047",
+        "bench": "yes",
+        "bus": "yes",
+        "bus_routes": "Flixbus 475",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Avenue de la Gare",
+        "operator": "Flixbus",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6417708,
+          46.7803701
+        ]
+      },
+      "id": "node/6680086047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680086048",
+        "bus": "yes",
+        "name": "Yverdon-les-Bains, Avenue de la Gare",
+        "operator": "Flixbus",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6417936,
+          46.7804127
+        ]
+      },
+      "id": "node/6680086048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8286073911",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, 14 Avril",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "tactile_paving": "no",
+        "uic_name": "Yverdon-les-Bains, 14 Avril",
+        "uic_ref": "8582051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6519075,
+          46.7776912
+        ]
+      },
+      "id": "node/8286073911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8286179741",
+        "bus": "yes",
+        "ele": "434",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Clendy",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "uic_name": "Yverdon-les-Bains, Clendy",
+        "uic_ref": "8579289"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6548596,
+          46.7783111
+        ]
+      },
+      "id": "node/8286179741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297595157",
+        "bench": "yes",
+        "ele": "434",
+        "gtfs:stop_id": "8579294",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, Bel-Air",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2014",
+        "tactile_paving": "no",
+        "uic_name": "Yverdon-les-Bains, Bel-Air",
+        "uic_ref": "8579294"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6371879,
+          46.7805263
+        ]
+      },
+      "id": "node/8297595157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8297595158",
+        "ele": "434",
+        "fixme": "Check position",
+        "gtfs:stop_id": "8594030",
+        "highway": "bus_stop",
+        "name": "Yverdon-les-Bains, rue de Chamblon",
+        "network": "Mobilis",
+        "network:wikidata": "Q2394222",
+        "operator": "TRAVYS",
+        "operator:wikidata": "Q388731",
+        "public_transport": "platform",
+        "shelter": "no",
+        "source": "Bundesamt für Verkehr (BAV), DIDOK 2009",
+        "uic_name": "Yverdon-les-Bains, rue de Chamblon",
+        "uic_ref": "8594030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6355236,
+          46.7822317
+        ]
+      },
+      "id": "node/8297595158"
+    }
+  ]
+}

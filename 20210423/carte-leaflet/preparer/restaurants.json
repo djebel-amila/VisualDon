@@ -1,0 +1,631 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T12:44:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292179183",
+        "amenity": "restaurant",
+        "name": "La Grange",
+        "opening_hours": "Tu-Su 08:00-23:30",
+        "toilets:wheelchair": "yes",
+        "website": "https://resto-lagrange.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6420844,
+          46.7797159
+        ]
+      },
+      "id": "node/292179183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292179540",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "4",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Pêcheurs",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian",
+        "delivery": "no",
+        "name": "Ciao Ciao",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 534 69 88",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://ciao-ciao.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.644441,
+          46.7803076
+        ]
+      },
+      "id": "node/292179540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/295953230",
+        "amenity": "restaurant",
+        "name": "Buvette du Camping Yverdon Plage",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.648756,
+          46.7847887
+        ]
+      },
+      "id": "node/295953230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/661252135",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "email": "contact@gerberwyss.ch",
+        "name": "L'Hôtel de Ville",
+        "opening_hours": "Tu-Sa 08:00-23:00; Su 08:00-12:00",
+        "phone": "+41 24 426 10 10",
+        "smoking": "outside",
+        "toilets:wheelchair": "no",
+        "website": "https://www.gerberwyss.ch/restaurant",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6403862,
+          46.7784326
+        ]
+      },
+      "id": "node/661252135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/828159641",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "10",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Pré",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "delivery": "no",
+        "name": "Don Camillo",
+        "opening_hours": "Mo 10:00-23:45; Tu-Sa 09:00-23:45",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 425 42 82",
+        "website": "http://don-camillo.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6385418,
+          46.7794031
+        ]
+      },
+      "id": "node/828159641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/849897780",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Valentin",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Bar du Coq",
+        "opening_hours": "Mo-We 06:00-23:30; Th 06:00-01:00; Fr 06:00-02:00; Sa 07:00-02:00; Su 07:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 524 30 36",
+        "toilets:wheelchair": "no",
+        "website": "https://www.barducoq.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6421493,
+          46.777777
+        ]
+      },
+      "id": "node/849897780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/856321166",
+        "amenity": "restaurant",
+        "name": "Orangeraie",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "wheelchair:description": "\"rez\" du restaurant (buvette) accessible depuis le niveau E, étage cafét depuis la terrasse uniquement (niveau F), entrer par une des portes-fenêtres (petit seuil)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6594163,
+          46.7788877
+        ]
+      },
+      "id": "node/856321166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/930786405",
+        "addr:street": "Chemin des Bosquets",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "name": "Le Ranch",
+        "phone": "+41 24 425 82 32",
+        "website": "https://www.leranch.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6465004,
+          46.7858525
+        ]
+      },
+      "id": "node/930786405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934844537",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "11",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Collège",
+        "amenity": "restaurant",
+        "cuisine": "crepe",
+        "name": "L'Ange Bleu",
+        "opening_hours": "Mo-Tu 10:30-15:00,17:30-22:30; We-Sa 10:30-22:30",
+        "phone": "+41 24 426 09 96",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6381194,
+          46.7794772
+        ]
+      },
+      "id": "node/934844537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934844964",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "8",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Collège",
+        "amenity": "restaurant",
+        "name": "La Pinte",
+        "opening_hours": "Mo-Fr 07:30-23:30; Sa 08:30-23:30",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 445 44 44",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.637981,
+          46.7797063
+        ]
+      },
+      "id": "node/934844964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/972119898",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "8a",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Pêcheurs",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "cuisine_1": "japanese",
+        "cuisine_2": "chinese",
+        "delivery": "no",
+        "name": "Restaurant Saint-Roch",
+        "opening_hours": "Mo-Fr 08:00-14:30,17:30-00:00; Sa 11:00-14:30,17:30-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 425 30 87",
+        "website": "https://s-roch.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6447437,
+          46.7815628
+        ]
+      },
+      "id": "node/972119898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1089178981",
+        "amenity": "restaurant",
+        "name": "Le Tempo",
+        "opening_hours": "Mo-Fr 08:30-24:00, Sa 10:00-24:00",
+        "phone": "+41 24 425 14 06",
+        "toilets:wheelchair": "yes",
+        "website": "http://le-tempo.ch/",
+        "wheelchair": "limited",
+        "wheelchair:description": "[accès depuis rue de Neuchâtel] rampe d'accès (raide)\n\n[accès depuis Quai de la Thièle] \nEscaliers (7 marches) à l'entrée, mais monte-personne disponible sur sollicitation d'une serveuse\n\nWC accessibles depuis le Quai de la Thièle, escaliers sinon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6371459,
+          46.7812737
+        ]
+      },
+      "id": "node/1089178981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2060733919",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "8",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "amenity": "restaurant",
+        "delivery": "yes",
+        "name": "La Brass'ry",
+        "opening_hours": "Mo-Fr 06:30-00:00; Sa 07:00-00:00; Su 08:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 435 16 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6423537,
+          46.7777083
+        ]
+      },
+      "id": "node/2060733919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301801436",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "39",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Milieu",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian",
+        "delivery": "no",
+        "name": "Mamma Mia",
+        "opening_hours": "Mo-Sa 09:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 425 29 94",
+        "toilets:wheelchair": "no",
+        "website": "http://www.restaurant-mammamia.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6386591,
+          46.7789393
+        ]
+      },
+      "id": "node/2301801436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2949382480",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:housenumber": "8",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "amenity": "restaurant",
+        "cuisine": "vietnamese",
+        "name": "Pho Thu",
+        "name:vi": "Phở Thu",
+        "opening_hours": "Mo-Sa 11:00-15:00, 17:30-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+41 24 426 63 91",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://phothu.business.site/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6424964,
+          46.7776731
+        ]
+      },
+      "id": "node/2949382480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3164823761",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:postcode": "1400",
+        "amenity": "restaurant",
+        "delivery": "yes",
+        "name": "Lamaï Thai Food",
+        "phone": "+41 24 420 30 00",
+        "website": "https://lamai-thai-food.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6540267,
+          46.7781556
+        ]
+      },
+      "id": "node/3164823761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3347621374",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:housenumber": "16",
+        "addr:postcode": "1400",
+        "addr:street": "Avenue des Iris",
+        "amenity": "restaurant",
+        "cuisine": "italian;pizza",
+        "internet_access": "wlan",
+        "name": "Le Restaurant du Tennis",
+        "outdoor_seating": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.tcy.ch/flash/restaurant.htm",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6476143,
+          46.7844001
+        ]
+      },
+      "id": "node/3347621374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638736056",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Plaine",
+        "amenity": "restaurant",
+        "name": "Kalaya",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.642341,
+          46.7782981
+        ]
+      },
+      "id": "node/3638736056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3718586295",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Four",
+        "amenity": "restaurant",
+        "cuisine": "brazilian",
+        "name": "An’acarajé Aux délice de Bahia",
+        "opening_hours": "We-Sa 08:30-23:00; Su 12:00-23:00",
+        "phone": "+41 78 958 93 88",
+        "smoking": "outside",
+        "website": "https://www.facebook.com/Anacaraj%C3%A9-aux-d%C3%A9lices-de-Bahia-2001930976543766/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6402428,
+          46.7784379
+        ]
+      },
+      "id": "node/3718586295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3813529057",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Asia Express",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "phone": "+41 24 425 68 88",
+        "survey:date": "2020-07-17",
+        "website": "http://yverdon.asia-express.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640057,
+          46.7815677
+        ]
+      },
+      "id": "node/3813529057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881691523",
+        "amenity": "restaurant",
+        "name": "La Fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6380013,
+          46.7797822
+        ]
+      },
+      "id": "node/4881691523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5739458398",
+        "amenity": "restaurant",
+        "name": "le bistrot",
+        "opening_hours": "Mo 08:30-18:30; Tu-Fr 08:00-18:30; Sa 07:30-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6357958,
+          46.7813317
+        ]
+      },
+      "id": "node/5739458398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5798209626",
+        "addr:housenumber": "16",
+        "addr:street": "Rue des Pêcheurs",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Café / Restaurant du Stade",
+        "opening_hours": "Mo-Sa 08:30-00:00",
+        "phone": "+41 24 425 26 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.645983,
+          46.7831447
+        ]
+      },
+      "id": "node/5798209626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5798209628",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:housenumber": "11B",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Pêcheurs",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Al Dente",
+        "phone": "+41 24 425 59 82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6453177,
+          46.782363
+        ]
+      },
+      "id": "node/5798209628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5878023473",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "8",
+        "addr:postcode": "1400",
+        "addr:street": "Rue du Casino",
+        "amenity": "restaurant",
+        "name": "Le bøtanik",
+        "opening_hours": "Mo-Fr 10:00-23:00",
+        "phone": "+41 24 525 81 10",
+        "website": "https://www.lebotanik.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6426685,
+          46.7796309
+        ]
+      },
+      "id": "node/5878023473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5989813709",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "40",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de Neuchâtel",
+        "amenity": "restaurant",
+        "name": "Les Saveurs du Grill",
+        "opening_hours": "Tu-Su 08:00-00:00",
+        "phone": "+41 24 525 80 08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.635305,
+          46.7826247
+        ]
+      },
+      "id": "node/5989813709"
+    }
+  ]
+}

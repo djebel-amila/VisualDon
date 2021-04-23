@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T10:38:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/240098122",
+        "ele": "435",
+        "name": "Yverdon-les-Bains",
+        "name:be": "Івердон-ле-Бэн",
+        "name:frp": "Enverdon les Bâgne",
+        "name:lt": "Iverdonas",
+        "name:zh-Hans": "伊韦尔东",
+        "name:zh-Hant": "伊韋爾東",
+        "openGeoDB:community_identification_number": "G5938",
+        "openGeoDB:license_plate_code": "VD",
+        "openGeoDB:loc_id": "79862",
+        "openGeoDB:postal_codes": "1401,1400",
+        "place": "town",
+        "population": "29406",
+        "postal_code": "1400",
+        "short_name": "Yverdon",
+        "source:population": "SCRIS 2013",
+        "website": "http://www.yverdon-les-bains.ch",
+        "wikidata": "Q63946",
+        "wikipedia": "fr:Yverdon-les-Bains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6409158,
+          46.7785711
+        ]
+      },
+      "id": "node/240098122"
+    }
+  ]
+}
