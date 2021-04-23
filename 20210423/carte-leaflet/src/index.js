@@ -1,7 +1,7 @@
 import L from 'leaflet'
 import arbres from './arbres.json'
 // import batiments from './batiments.json'
-import restaurants from '../preparer/restaurants2.json'
+import restaurants from './restaurants.json'
 
 const map = L.map('map').setView([46.78104, 6.64707], 17)
 
@@ -43,10 +43,16 @@ const icon = L.icon({
   iconAnchor: [15, 30],
 })
 
-restaurants.map(d => {
-  const [lon, lat] = d
+// restaurants.map(d => {
+//   const [lon, lat] = d
+//   L.marker([lat, lon], { icon }).addTo(map)
+// })
+
+restaurants.features.map(d => {
+  const [lon, lat] = d.geometry.coordinates
   L.marker([lat, lon], { icon }).addTo(map)
 })
+
 
 // arbres.map(d => {
 //   const [lon, lat] = d
