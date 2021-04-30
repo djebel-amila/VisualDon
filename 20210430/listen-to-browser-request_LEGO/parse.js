@@ -1,4 +1,5 @@
 const R = require('ramda')
+// const testdata = require('./testdata.json')
 
 module.exports = data => {
   const products = data[0].data.search.products

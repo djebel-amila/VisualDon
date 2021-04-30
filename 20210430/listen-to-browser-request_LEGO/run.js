@@ -1,10 +1,9 @@
 const fs = require('fs')
 const get = require('./get')
 //const data = require('./testdata.json')
-
 const parse = require('./parse')
 
-const file = fs.createWriteStream('bike.ndjson')
+const file = fs.createWriteStream('lego.ndjson')
 
 const loop = offset => {
   get(offset)
