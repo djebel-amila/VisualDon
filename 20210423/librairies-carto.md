@@ -7,7 +7,7 @@ Les données cartographiques appartiennent à des systèmes disctincts, avec des
 ## Qu'est ce qu'Open street map?
 Open street map (OSM) est l’équivalent de wikipedia pour les données géographiques. C’est une base de données collaborative/participative libre d’accès, ou tout un chacun peut ajouter des données selon un système de classes qui définissent le type d’objet représenté et leur features particulières. 
 
-## Quelles fonctions D3 sont spécifiques à la cartographie?
+## Quelles fonctions D3 sont spécifiindques à la cartographie?
 La fonction ``d3.geoPath()`` permet de générer des tracés svg à partir de coordonnées.
 La fonction ``d3.geoMercator()`` permet d’exprimer les données dans la projection de mercator, qui déforme les pays en fonction de leur distance de l’équateur. Il existe une série d’autres projections possibles pour représenter des cartes suivant d’autres projections géographiques. 
 /!\ Il ne faut pas oublier de renverser le systèmes de coordonnées géographiques (origine en bas à gauche) à celui des rendus graphiques sur ordinateur (origine en haut à gauche). 
