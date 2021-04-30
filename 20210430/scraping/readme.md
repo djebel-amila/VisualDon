@@ -1,7 +1,9 @@
 
 # *Récupération de données* à partir de la page https://www.webscraper.io/test-sites/e-commerce/allinone/computers/laptops
 
-## Pour récupérer les données des produits présents dans le html, on identifie les éléments/div d‘intérêt avec l’outil inspecteur de notre navigateur. On extrait ensuite les données présentes dans une array qui contient tout ce que contient tout le contenu des éléments sélectionnés, et on les stocke dans une ``var`` "parts" :
+## Pour récupérer les données des produits présents dans le html, on identifie les éléments/div d‘intérêt avec l’outil inspecteur de notre navigateur. Avec un clic droit sur cet élément dans l’inspecteur, on sélectionne la fonction "Ouvrir dans la console" pour isoler cet élément et ses données. Elles vont être stockées dans une variable temporaire, nommée (automatiquement) ``temp0``ici. 
+
+## On extrait ensuite les données de ``temp0`` dans une liste qui contient tout ce que contient tout le contenu des éléments sélectionnés, et on les stocke dans une ``var`` "parts" :
 ``var parts = Array.from(temp0.getElementsByClassName('col-sm-4 col-lg-4 col-md-4'))```
 
 ## On crée ensuite une var ``data`` dans laquelle on ne va conserver que les objets que l’on souhaite dans nos données avec la méthode ``.map``. Ici, on souhaite conserver le nom du produit, son prix et son évaluation par les utilisateurs. Il faut aller chercher avec l’inspecteur le nom des classes de ces éléments, ainsi que la position éventuelle de l’élément souhaité s’il est dans une liste. 
